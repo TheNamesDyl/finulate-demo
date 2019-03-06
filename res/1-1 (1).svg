@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="810px" viewBox="0 0 1440 810" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>1-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="background" fill="#F5FBFA" x="0" y="0" width="1440" height="810"></rect>
+        <rect id="top" stroke="#BFE6DB" stroke-width="2" fill="#FFFFFF" x="-1" y="-1" width="1442" height="62"></rect>
+        <g id="Group-4" transform="translate(533.000000, 19.000000)">
+            <g id="assumption" transform="translate(4.000000, 0.000000)">
+                <text id="Assumptions" font-family="HindMadurai-Bold, Hind Madurai" font-size="16" font-weight="bold" letter-spacing="-0.507936418" fill="#889996">
+                    <tspan x="32" y="16">Assumptions</tspan>
+                </text>
+                <path d="M0,6.25 L1.5,6.25 L0,6.25 Z M6,6.25 L15,6.25 L6,6.25 Z M3.75,8.5 C2.50735931,8.5 1.5,7.49264069 1.5,6.25 C1.5,5.00735931 2.50735931,4 3.75,4 C4.99264069,4 6,5.00735931 6,6.25 C6,7.49264069 4.99264069,8.5 3.75,8.5 Z M0,16.75 L1.5,16.75 L0,16.75 Z M6,16.75 L15,16.75 L6,16.75 Z M3.75,19 C2.50735931,19 1.5,17.9926407 1.5,16.75 C1.5,15.5073593 2.50735931,14.5 3.75,14.5 C4.99264069,14.5 6,15.5073593 6,16.75 C6,17.9926407 4.99264069,19 3.75,19 Z M0,11.5 L9,11.5 L0,11.5 Z M13.5,11.5 L15,11.5 L13.5,11.5 Z M11.25,13.75 C10.0073593,13.75 9,12.7426407 9,11.5 C9,10.2573593 10.0073593,9.25 11.25,9.25 C12.4926407,9.25 13.5,10.2573593 13.5,11.5 C13.5,12.7426407 12.4926407,13.75 11.25,13.75 Z" id="Icon" stroke="#889996" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <rect id="revenue" fill="#FFFFFF" x="0" y="36" width="129" height="5"></rect>
+        </g>
+        <g id="Group-2" transform="translate(217.000000, 19.000000)">
+            <g id="Group" transform="translate(15.000000, 0.000000)">
+                <text id="Revenues" font-family="HindMadurai-Bold, Hind Madurai" font-size="16" font-weight="bold" letter-spacing="-0.507936418" fill="#3ABC96">
+                    <tspan x="32" y="16">Revenues</tspan>
+                </text>
+                <path d="M0,6.25 L1.5,6.25 L0,6.25 Z M6,6.25 L15,6.25 L6,6.25 Z M3.75,8.5 C2.50735931,8.5 1.5,7.49264069 1.5,6.25 C1.5,5.00735931 2.50735931,4 3.75,4 C4.99264069,4 6,5.00735931 6,6.25 C6,7.49264069 4.99264069,8.5 3.75,8.5 Z M0,16.75 L1.5,16.75 L0,16.75 Z M6,16.75 L15,16.75 L6,16.75 Z M3.75,19 C2.50735931,19 1.5,17.9926407 1.5,16.75 C1.5,15.5073593 2.50735931,14.5 3.75,14.5 C4.99264069,14.5 6,15.5073593 6,16.75 C6,17.9926407 4.99264069,19 3.75,19 Z M0,11.5 L9,11.5 L0,11.5 Z M13.5,11.5 L15,11.5 L13.5,11.5 Z M11.25,13.75 C10.0073593,13.75 9,12.7426407 9,11.5 C9,10.2573593 10.0073593,9.25 11.25,9.25 C12.4926407,9.25 13.5,10.2573593 13.5,11.5 C13.5,12.7426407 12.4926407,13.75 11.25,13.75 Z" id="Icon" stroke="#3ABC96" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <rect id="revenue" fill="#3ABC96" x="0" y="36" width="129" height="5"></rect>
+        </g>
+        <g id="Group-3" transform="translate(370.000000, 19.000000)">
+            <rect id="revenue" fill="#FFFFFF" x="0" y="36" width="129" height="5"></rect>
+            <g id="expense" transform="translate(16.000000, 0.000000)">
+                <text id="Expenses" font-family="HindMadurai-Bold, Hind Madurai" font-size="16" font-weight="bold" letter-spacing="-0.507936418" fill="#889996">
+                    <tspan x="32" y="16">Expenses</tspan>
+                </text>
+                <path d="M0,6.25 L1.5,6.25 L0,6.25 Z M6,6.25 L15,6.25 L6,6.25 Z M3.75,8.5 C2.50735931,8.5 1.5,7.49264069 1.5,6.25 C1.5,5.00735931 2.50735931,4 3.75,4 C4.99264069,4 6,5.00735931 6,6.25 C6,7.49264069 4.99264069,8.5 3.75,8.5 Z M0,16.75 L1.5,16.75 L0,16.75 Z M6,16.75 L15,16.75 L6,16.75 Z M3.75,19 C2.50735931,19 1.5,17.9926407 1.5,16.75 C1.5,15.5073593 2.50735931,14.5 3.75,14.5 C4.99264069,14.5 6,15.5073593 6,16.75 C6,17.9926407 4.99264069,19 3.75,19 Z M0,11.5 L9,11.5 L0,11.5 Z M13.5,11.5 L15,11.5 L13.5,11.5 Z M11.25,13.75 C10.0073593,13.75 9,12.7426407 9,11.5 C9,10.2573593 10.0073593,9.25 11.25,9.25 C12.4926407,9.25 13.5,10.2573593 13.5,11.5 C13.5,12.7426407 12.4926407,13.75 11.25,13.75 Z" id="Icon" stroke="#889996" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+        <g id="Group-5" transform="translate(30.000000, 13.000000)">
+            <text id="Finulate" font-family="Montserrat-Bold, Montserrat" font-size="28" font-weight="bold" letter-spacing="-0.691357851" fill="#3ABC96">
+                <tspan x="32" y="27">Finulate</tspan>
+            </text>
+            <path d="M-3.55271368e-15,12 L15,12 L-3.55271368e-15,12 Z M0,22.9223301 L15,22.9223301 L0,22.9223301 Z M0,17.461165 L15,17.461165 L0,17.461165 Z" id="menu" stroke="#889996" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+        <g id="user" transform="translate(1313.000000, 15.000000)">
+            <text id="User-Name" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.345679" fill="#889996">
+                <tspan x="32" y="16">User Name</tspan>
+            </text>
+            <path d="M10.5,15.500909 C13.5375661,15.500909 16,13.0384751 16,10.000909 C16,6.96334288 13.5375661,4.500909 10.5,4.500909 C7.46243388,4.500909 5,6.96334288 5,10.000909 C5,13.0384751 7.46243388,15.500909 10.5,15.500909 Z M3,20.967973 C3.15,18.750909 6.01060486,15.500909 10.5053024,15.500909 C15,15.500909 18,18.750909 18,21.000909 M18.6136364,1.42108547e-14 C19.9315886,1.37919009e-14 21,1.06841176 21,2.386364 L21,18.6145454 C21,19.8797796 19.974325,21.000909 18.7090908,21.000909 L2.29090918,21.000909 C1.02567498,21.000909 4.45148968e-14,19.8797796 4.4408921e-14,18.6145454 L4.4408921e-14,2.290909 C4.92838094e-14,1.0256748 1.02567498,5.15159631e-14 2.29090918,5.15159631e-14 L18.6136364,1.42108547e-14 Z" stroke="#889996" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+        <g id="next" transform="translate(1195.000000, 737.000000)">
+            <rect fill="#889996" x="0" y="0" width="93" height="40" rx="20"></rect>
+            <text id="Next" font-family="HindMadurai-Bold, Hind Madurai" font-size="20" font-weight="bold" letter-spacing="-0.2962965" fill="#FFFFFF">
+                <tspan x="16.172593" y="26">Next</tspan>
+            </text>
+            <polyline id="Path" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(75.500000, 20.000000) scale(-1, -1) rotate(90.000000) translate(-75.500000, -20.000000) " points="80.5 17.5 75.5 22.5 70.5 17.5"></polyline>
+        </g>
+        <g id="back" transform="translate(177.000000, 737.000000)">
+            <rect fill="#3ABC96" transform="translate(46.500000, 20.000000) scale(-1, 1) translate(-46.500000, -20.000000) " x="0" y="0" width="93" height="40" rx="20"></rect>
+            <text id="Back" font-family="HindMadurai-Bold, Hind Madurai" font-size="20" font-weight="bold" letter-spacing="-0.2962965" fill="#FFFFFF">
+                <tspan x="35.712593" y="26">Back</tspan>
+            </text>
+            <polyline id="Path" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(18.000000, 20.000000) scale(1, -1) rotate(90.000000) translate(-18.000000, -20.000000) " points="23 17.5 18 22.5 13 17.5"></polyline>
+        </g>
+        <text id="question" font-family="HindMadurai-Bold, Hind Madurai" font-size="28" font-weight="bold" letter-spacing="-0.2962965" fill="#000000">
+            <tspan x="539.438003" y="117">What is your revenue model? </tspan>
+        </text>
+        <g id="subsription" transform="translate(353.000000, 140.000000)">
+            <rect id="subscription" stroke="#000000" fill="#FFFFFF" x="0.5" y="0.5" width="149" height="149" rx="10"></rect>
+            <text id="Subscription" font-family="HindMadurai-Regular, Hind Madurai" font-size="24" font-weight="normal" letter-spacing="-0.2539684" fill="#000000">
+                <tspan x="12.3598104" y="124">Subscription</tspan>
+            </text>
+            <path d="M95.044238,52.2299988 L73.3377619,73.9364762 L61.6894476,74.2852905 C61.1667669,74.3009424 60.7303615,73.889914 60.7147095,73.3672333 C60.7141439,73.348344 60.7141439,73.3294417 60.7147095,73.3105524 L61.0635238,61.6622381 L82.7700012,39.955762 M99.3067061,44.6200116 C100.231098,45.5444035 100.231098,47.0431389 99.3067061,47.9675307 L94.1557404,53.1184964 L81.8815036,40.8442596 L87.0324693,35.6932939 C87.9568611,34.768902 89.4555965,34.768902 90.3799884,35.6932939 L99.3067061,44.6200116 Z M100,69.5238095 L100,83.0952381 C100,84.147209 99.147209,85 98.0952381,85 L51.9047619,85 C50.852791,85 50,84.147209 50,83.0952381 L50,36.9047619 C50,35.852791 50.852791,35 51.9047619,35 L65.4761905,35" id="subscription" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+        <g id="affiliate" transform="translate(548.000000, 140.000000)">
+            <rect stroke="#000000" fill="#FFFFFF" x="0.5" y="0.5" width="149" height="149" rx="10"></rect>
+            <text id="Affiliate" font-family="HindMadurai-Regular, Hind Madurai" font-size="24" font-weight="normal" letter-spacing="-0.2539684" fill="#000000">
+                <tspan x="35.4868578" y="124">Affiliate</tspan>
+            </text>
+            <path d="M93.3198052,68.7708719 L81.8033009,80.2465984 C75.4429112,86.5844672 65.130682,86.5844672 58.7702923,80.2465984 C52.4099026,73.9087297 52.4099026,63.6330141 58.7702923,57.2951453 L77.9644661,38.1689344 C82.2047259,33.9436885 89.0795454,33.9436885 93.3198052,38.1689344 C97.5600649,42.3941802 97.5600649,49.2446573 93.3198052,53.4699031 L76.0450487,70.683493 C73.9249188,72.7961159 70.4875091,72.7961159 68.3673792,70.683493 C66.2472493,68.57087 66.2472493,65.1456315 68.3673792,63.0330086 L77.9644661,53.4699031 L85.1272976,46.3070716" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+        <g id="ads" transform="translate(743.000000, 140.000000)">
+            <rect stroke="#000000" fill="#FFFFFF" x="0.5" y="0.5" width="149" height="149" rx="10"></rect>
+            <text id="Ads" font-family="HindMadurai-Regular, Hind Madurai" font-size="24" font-weight="normal" letter-spacing="-0.2539684" fill="#000000">
+                <tspan x="55.8569526" y="124">Ads</tspan>
+            </text>
+            <path d="M55.4545457,35 L94.5454543,35 C97.5579167,35 100,37.0932142 100,39.6753249 L100,80.3246751 C100,82.9067858 97.5579167,85 94.5454543,85 L55.4545457,85 C52.4420833,85 50,82.9067858 50,80.3246751 L50,39.6753249 C50,37.0932142 52.4420833,35 55.4545457,35 Z M50,52.8571429 L100,52.8571429 L50,52.8571429 Z M78.452381,43.9285714 L78.6904762,43.9285714 L78.452381,43.9285714 Z M68.6904762,43.9285714 L68.9285714,43.9285714 L68.6904762,43.9285714 Z M58.9285714,43.9285714 L59.1666667,43.9285714 L58.9285714,43.9285714 Z" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+        <g id="ecommerce" transform="translate(938.000000, 140.000000)">
+            <rect id="ecom" stroke="#000000" fill="#FFFFFF" x="0.5" y="0.5" width="149" height="149" rx="10"></rect>
+            <text id="e-Commerce" font-family="HindMadurai-Regular, Hind Madurai" font-size="24" font-weight="normal" letter-spacing="-0.2539684" fill="#000000">
+                <tspan x="10.137842" y="124">e-Commerce</tspan>
+            </text>
+            <path d="M75,85 C88.8071187,85 100,73.8071187 100,60 C100,46.1928813 88.8071187,35 75,35 C61.1928813,35 50,46.1928813 50,60 C50,73.8071187 61.1928813,85 75,85 Z M75,35 C68.6507937,43.3333333 65.4761905,51.6666667 65.4761905,60 C65.4761905,68.3333333 68.6507937,76.6666667 75,85 C81.3492063,76.6666667 84.5238095,68.3333333 84.5238095,60 C84.5238095,51.6666667 81.3492063,43.3333333 75,35 Z M53.5714286,60 L98.8095238,60" id="ecom" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+        <g id="more-info" transform="translate(908.000000, 310.000000)">
+            <rect id="Rectangle" stroke="#3ABC96" fill="#FFFFFF" x="-0.5" y="-0.5" width="181" height="31"></rect>
+            <text id="More-Information" font-family="HindMadurai-Bold, Hind Madurai" font-size="16" font-weight="bold" letter-spacing="-0.2962965" fill="#3ABC96">
+                <tspan x="16.158372" y="20">More Information</tspan>
+            </text>
+            <polyline id="arrow" stroke="#3ABC96" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="165 13 160 18 155 13"></polyline>
+        </g>
+    </g>
+</svg>
