@@ -1,0 +1,30 @@
+* {
+  background-color: #f5fbfa;
+  overflow: hidden;
+}
+
+.screens {
+  width: 100%;
+  background-image: cover;
+  display: block;
+}
+
+img {
+  visibility: hidden;
+  position: fixed;
+}
+
+#homescreen {
+  visibility: visible;
+}
+
+#revenues {
+  visibility: visible;
+  position: fixed;
+  margin-left: 260px;
+  margin-top: 6px;
+}
+
+#revenues:hover {
+  content: url("res/revenue_highlight.svg");
+}
