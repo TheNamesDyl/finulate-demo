@@ -20,6 +20,7 @@ img {
 
 #revenues {
   visibility: visible;
+  cursor: pointer;
   position: fixed;
   margin-left: 260px;
   margin-top: 6px;
