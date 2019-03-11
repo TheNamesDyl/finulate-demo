@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Hind Madurai";
+  src: url("https://fonts.googleapis.com/css?family=Hind+Madurai");
+}
+
 * {
   background-color: #f5fbfa;
   overflow: hidden;
@@ -5,7 +10,7 @@
 
 .screens {
   width: 100%;
-  background-image: cover;
+  height: 810px;
   display: block;
 }
 
@@ -18,14 +23,28 @@ img {
   visibility: visible;
 }
 
-#revenues {
+#revenue {
   visibility: visible;
-  cursor: pointer;
-  position: fixed;
-  margin-left: 260px;
-  margin-top: 6px;
 }
 
-#revenues:hover {
-  content: url("res/revenue_highlight.svg");
+#name {
+  font-family: "Hind Madurai", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin-left: 51.45%;
+  margin-top: 291px;
+  width: 36.66%;
+  height: 5.1%;
+  background-color: white;
+  position: fixed;
+}
+
+#pass {
+  font-family: "Hind Madurai", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin-left: 51.45%;
+  margin-top: 390px;
+  width: 36.66%;
+  background-color: white;
+  height: 5.1%;
+  position: fixed;
 }
