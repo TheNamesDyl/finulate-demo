@@ -15,15 +15,12 @@
 }
 
 img {
+  z-index: 0;
   visibility: hidden;
   position: fixed;
 }
 
 #homescreen {
-  visibility: visible;
-}
-
-#revenue {
   visibility: visible;
 }
 
@@ -33,7 +30,7 @@ img {
   margin-left: 51.45%;
   margin-top: 291px;
   width: 36.66%;
-  height: 5.1%;
+  height: 42px;
   background-color: white;
   position: fixed;
 }
@@ -42,9 +39,44 @@ img {
   font-family: "Hind Madurai", Arial, Helvetica, sans-serif;
   font-size: 16px;
   margin-left: 51.45%;
-  margin-top: 390px;
+  margin-top: 393px;
   width: 36.66%;
   background-color: white;
-  height: 5.1%;
+  height: 42px;
   position: fixed;
+}
+
+#sign_in:hover {
+  background-color: #3abc96;
+}
+
+#sign_in {
+  border: none;
+  color: #889996;
+  width: 28.54%;
+  height: 47px;
+  background-color: #ceeee5;
+
+  font-family: HindMadurai;
+  font-size: 21px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.7px;
+  cursor: pointer;
+  color: #889996;
+
+  /*  font-family: HindMadurai;
+  font-weight: bold;*/
+
+  /*  letter-spacing: -0.7px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;*/
+
+  margin-left: 55.21%;
+  margin-top: 500px;
+  position: fixed;
+  z-index: 2;
 }
