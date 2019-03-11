@@ -2,11 +2,7 @@
   currentScreen = $("homescreen");
 
   window.onload = function() {
-    $("revenues").onclick = switchFromScreen(currentScreen, $("revenues"));
-    $("expenses").onclick = switchFromScreen(currentScreen, $("expenses"));
-    $("assumptions").onclick = switchFromScreen(
-      currentScreen,
-      $("assumptions")
+    
     );
   };
 
