@@ -10,13 +10,12 @@
 
 .screens {
   width: 100%;
-  height: 810px;
+  height: 826px;
   display: block;
 }
 
 img {
   z-index: 0;
-  visibility: hidden;
   position: fixed;
 }
 
@@ -24,26 +23,26 @@ img {
   visibility: visible;
 }
 
-#name {
+input,
+select {
+  position: fixed;
   font-family: "Hind Madurai", Arial, Helvetica, sans-serif;
   font-size: 16px;
+  background-color: white;
+}
+
+#name {
   margin-left: 51.45%;
-  margin-top: 291px;
+  margin-top: 297px;
   width: 36.66%;
   height: 42px;
-  background-color: white;
-  position: fixed;
 }
 
 #pass {
-  font-family: "Hind Madurai", Arial, Helvetica, sans-serif;
-  font-size: 16px;
   margin-left: 51.45%;
-  margin-top: 393px;
+  margin-top: 401px;
   width: 36.66%;
-  background-color: white;
   height: 42px;
-  position: fixed;
 }
 
 #sign_in:hover {
@@ -66,17 +65,63 @@ img {
   letter-spacing: -0.7px;
   cursor: pointer;
   color: #889996;
-
-  /*  font-family: HindMadurai;
-  font-weight: bold;*/
-
-  /*  letter-spacing: -0.7px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;*/
-
   margin-left: 55.21%;
-  margin-top: 500px;
+  margin-top: 508px;
   position: fixed;
   z-index: 2;
+}
+
+/*
+ *  New model screen (screen 3)
+ */
+.model_inputs {
+  z-index: 1;
+  margin-left: 31.66%;
+  width: 36.8%;
+  height: 44px;
+  background-color: white;
+}
+
+.model_inputs.drop {
+  background: url(res/buttons/dropdown_triangle.svg) no-repeat scroll 99% 50%;
+  background-color: white;
+}
+
+#model_name {
+  margin-top: 87px;
+}
+
+#model_date {
+  margin-top: 169px;
+}
+
+#model_duration {
+  margin-top: 251px;
+}
+
+#model_frequency {
+  margin-top: 331px;
+}
+
+#model_currency {
+  margin-top: 415px;
+}
+
+#model_location {
+  margin-top: 497px;
+}
+
+#model_industry {
+  margin-top: 579px;
+}
+
+#model_competitors {
+  margin-top: 661px;
+}
+
+#start_building_model {
+  width: 28.6%;
+  margin-left: 35.8%;
+  margin-top: 748px;
+  cursor: pointer;
 }
