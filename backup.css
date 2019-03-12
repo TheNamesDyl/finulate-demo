@@ -1,0 +1,47 @@
+* {
+  background-color: #f5fbfa;
+  overflow: hidden;
+}
+
+.screens {
+  width: 100%;
+  background-image: cover;
+  display: block;
+}
+
+img {
+  z-index: 0;
+  visibility: hidden;
+  position: fixed;
+}
+
+#homescreen {
+  visibility: visible;
+}
+
+
+#sign_in {
+  background-color: #ceeee5;
+  border: none;
+  color: #889996;
+
+  font-family: HindMadurai;
+/*  font-size: 21px;*/
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.7px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 509px;   /*(1280/1440)*795*/
+  margin-top: 972px;    /* (720/810)*500*/
+  cursor: pointer;
+  width: 411px;   
+  height: 47px;  
+  position: fixed;
+  z-index: 2;
+  
+}

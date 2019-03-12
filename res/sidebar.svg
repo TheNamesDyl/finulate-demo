@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="810px" viewBox="0 0 1440 810" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>sidebar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="sidebar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-10">
+            <g id="Group">
+                <text id="Assumptions" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Assumptions</tspan>
+                </text>
+                <path d="M135,15 C137.761424,15 140,12.7614237 140,10 C140,7.23857625 137.761424,5 135,5 C132.238576,5 130,7.23857625 130,10 C130,12.7614237 132.238576,15 135,15 Z M132.5,9.9246449 L134.409091,11.8181818 L137.136364,8.45454563" id="cons" stroke="#3ABC96" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group-3" transform="translate(0.000000, 40.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="Group-2">
+                    <text id="Revenue">
+                        <tspan x="27" y="14">Revenue</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-4" transform="translate(0.000000, 71.000000)">
+                <text id="--Subscription" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="37" y="13">- Subscription</tspan>
+                </text>
+                <path d="M135,15 C137.761424,15 140,12.7614237 140,10 C140,7.23857625 137.761424,5 135,5 C132.238576,5 130,7.23857625 130,10 C130,12.7614237 132.238576,15 135,15 Z M132.5,9.9246449 L134.409091,11.8181818 L137.136364,8.45454563" id="cons" stroke="#3ABC96" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group-5" transform="translate(0.000000, 109.000000)" fill="#3ABC96" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="Expenses">
+                    <tspan x="27" y="14">Expenses</tspan>
+                </text>
+            </g>
+            <g id="expense-2" transform="translate(0.000000, 149.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Capex">
+                        <tspan x="27" y="14">Capex</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-3" transform="translate(0.000000, 189.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="P&amp;L">
+                        <tspan x="27" y="14">P&amp;L</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-4" transform="translate(0.000000, 229.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Balance-Sheet">
+                        <tspan x="27" y="14">Balance Sheet</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-5" transform="translate(0.000000, 269.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="CF">
+                        <tspan x="27" y="14">CF</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-6" transform="translate(0.000000, 309.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Sensitivity">
+                        <tspan x="27" y="14">Sensitivity</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-7" transform="translate(0.000000, 349.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Scenario">
+                        <tspan x="27" y="14">Scenario</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Group-10" transform="translate(380.000000, 90.000000)">
+            <g id="Group">
+                <text id="Assumptions" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Assumptions</tspan>
+                </text>
+                <path d="M135,15 C137.761424,15 140,12.7614237 140,10 C140,7.23857625 137.761424,5 135,5 C132.238576,5 130,7.23857625 130,10 C130,12.7614237 132.238576,15 135,15 Z M132.5,9.9246449 L134.409091,11.8181818 L137.136364,8.45454563" id="cons" stroke="#3ABC96" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group-3" transform="translate(0.000000, 40.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="Group-2">
+                    <text id="Revenue">
+                        <tspan x="27" y="14">Revenue</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-4" transform="translate(0.000000, 71.000000)" fill="#3ABC96" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="--Subscription">
+                    <tspan x="37" y="13">- Subscription</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(0.000000, 109.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="Expenses">
+                    <tspan x="27" y="14">Expenses</tspan>
+                </text>
+            </g>
+            <g id="expense-2" transform="translate(0.000000, 149.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Capex">
+                        <tspan x="27" y="14">Capex</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-3" transform="translate(0.000000, 189.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="P&amp;L">
+                        <tspan x="27" y="14">P&amp;L</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-4" transform="translate(0.000000, 229.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Balance-Sheet">
+                        <tspan x="27" y="14">Balance Sheet</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-5" transform="translate(0.000000, 269.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="CF">
+                        <tspan x="27" y="14">CF</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-6" transform="translate(0.000000, 309.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Sensitivity">
+                        <tspan x="27" y="14">Sensitivity</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-7" transform="translate(0.000000, 349.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Scenario">
+                        <tspan x="27" y="14">Scenario</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Group-12" transform="translate(552.000000, 90.000000)">
+            <g id="Group">
+                <text id="Assumptions" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Assumptions</tspan>
+                </text>
+                <path d="M135,15 C137.761424,15 140,12.7614237 140,10 C140,7.23857625 137.761424,5 135,5 C132.238576,5 130,7.23857625 130,10 C130,12.7614237 132.238576,15 135,15 Z M132.5,9.9246449 L134.409091,11.8181818 L137.136364,8.45454563" id="cons" stroke="#3ABC96" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group-11" transform="translate(0.000000, 40.000000)">
+                <text id="Revenue" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Revenue</tspan>
+                </text>
+                <path d="M135,15 C137.761424,15 140,12.7614237 140,10 C140,7.23857625 137.761424,5 135,5 C132.238576,5 130,7.23857625 130,10 C130,12.7614237 132.238576,15 135,15 Z M132.5,9.9246449 L134.409091,11.8181818 L137.136364,8.45454563" id="cons" stroke="#3ABC96" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group-5" transform="translate(0.000000, 81.000000)" fill="#3ABC96" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="Expenses">
+                    <tspan x="27" y="14">Expenses</tspan>
+                </text>
+            </g>
+            <g id="expense-2" transform="translate(0.000000, 121.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Capex">
+                        <tspan x="27" y="14">Capex</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-3" transform="translate(0.000000, 161.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="P&amp;L">
+                        <tspan x="27" y="14">P&amp;L</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-4" transform="translate(0.000000, 201.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Balance-Sheet">
+                        <tspan x="27" y="14">Balance Sheet</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-5" transform="translate(0.000000, 241.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="CF">
+                        <tspan x="27" y="14">CF</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-6" transform="translate(0.000000, 281.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Sensitivity">
+                        <tspan x="27" y="14">Sensitivity</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-7" transform="translate(0.000000, 321.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Scenario">
+                        <tspan x="27" y="14">Scenario</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Group-16" transform="translate(910.000000, 90.000000)">
+            <g id="Group">
+                <text id="Assumptions" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Assumptions</tspan>
+                </text>
+                <path d="M135,15 C137.761424,15 140,12.7614237 140,10 C140,7.23857625 137.761424,5 135,5 C132.238576,5 130,7.23857625 130,10 C130,12.7614237 132.238576,15 135,15 Z M132.5,9.9246449 L134.409091,11.8181818 L137.136364,8.45454563" id="cons" stroke="#3ABC96" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group-14" transform="translate(0.000000, 40.000000)">
+                <text id="Revenue" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Revenue</tspan>
+                </text>
+                <path d="M135,15 C137.761424,15 140,12.7614237 140,10 C140,7.23857625 137.761424,5 135,5 C132.238576,5 130,7.23857625 130,10 C130,12.7614237 132.238576,15 135,15 Z M132.5,9.9246449 L134.409091,11.8181818 L137.136364,8.45454563" id="cons" stroke="#3ABC96" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group-15" transform="translate(0.000000, 81.000000)">
+                <text id="Expenses" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Expenses</tspan>
+                </text>
+                <path d="M135,15 C132.238576,15 130,12.7614237 130,10 C130,7.23857625 132.238576,5 135,5 C137.761424,5 140,7.23857625 140,10 C140,12.7614237 137.761424,15 135,15 Z M135,10 L135.006061,10 M132.777778,10 L132.783838,10 M137.222222,10 L137.228283,10" id="Icon" stroke="#BC3A3A" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="expense-2" transform="translate(0.000000, 121.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Capex">
+                        <tspan x="27" y="14">Capex</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense" transform="translate(0.000000, 161.000000)" fill="#3ABC96" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="P&amp;L">
+                    <tspan x="27" y="14">P&amp;L</tspan>
+                </text>
+            </g>
+            <g id="expense-4" transform="translate(0.000000, 201.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Balance-Sheet">
+                        <tspan x="27" y="14">Balance Sheet</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-5" transform="translate(0.000000, 241.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="CF">
+                        <tspan x="27" y="14">CF</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-6" transform="translate(0.000000, 281.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Sensitivity">
+                        <tspan x="27" y="14">Sensitivity</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-7" transform="translate(0.000000, 321.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Scenario">
+                        <tspan x="27" y="14">Scenario</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Group-18" transform="translate(1078.000000, 90.000000)">
+            <g id="Group">
+                <text id="Assumptions" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Assumptions</tspan>
+                </text>
+                <path d="M135,15 C137.761424,15 140,12.7614237 140,10 C140,7.23857625 137.761424,5 135,5 C132.238576,5 130,7.23857625 130,10 C130,12.7614237 132.238576,15 135,15 Z M132.5,9.9246449 L134.409091,11.8181818 L137.136364,8.45454563" id="cons" stroke="#3ABC96" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group-14" transform="translate(0.000000, 40.000000)">
+                <text id="Revenue" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Revenue</tspan>
+                </text>
+                <path d="M135,15 C137.761424,15 140,12.7614237 140,10 C140,7.23857625 137.761424,5 135,5 C132.238576,5 130,7.23857625 130,10 C130,12.7614237 132.238576,15 135,15 Z M132.5,9.9246449 L134.409091,11.8181818 L137.136364,8.45454563" id="cons" stroke="#3ABC96" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group-15" transform="translate(0.000000, 81.000000)">
+                <text id="Expenses" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Expenses</tspan>
+                </text>
+                <path d="M135,15 C132.238576,15 130,12.7614237 130,10 C130,7.23857625 132.238576,5 135,5 C137.761424,5 140,7.23857625 140,10 C140,12.7614237 137.761424,15 135,15 Z M135,10 L135.006061,10 M132.777778,10 L132.783838,10 M137.222222,10 L137.228283,10" id="Icon" stroke="#BC3A3A" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="expense-2" transform="translate(0.000000, 121.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Capex">
+                        <tspan x="27" y="14">Capex</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-17" transform="translate(0.000000, 161.000000)">
+                <text id="P&amp;L" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">P&amp;L</tspan>
+                </text>
+                <path d="M135,14 C132.238576,14 130,11.7614237 130,9 C130,6.23857625 132.238576,4 135,4 C137.761424,4 140,6.23857625 140,9 C140,11.7614237 137.761424,14 135,14 Z M135,9 L135.006061,9 M132.777778,9 L132.783838,9 M137.222222,9 L137.228283,9" id="Icon" stroke="#BC3A3A" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="expense-4" transform="translate(0.000000, 201.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Balance-Sheet">
+                        <tspan x="27" y="14">Balance Sheet</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-5" transform="translate(0.000000, 241.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="CF">
+                        <tspan x="27" y="14">CF</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense" transform="translate(0.000000, 281.000000)" fill="#3ABC96" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="Sensitivity">
+                    <tspan x="27" y="14">Sensitivity</tspan>
+                </text>
+            </g>
+            <g id="expense-7" transform="translate(0.000000, 321.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Scenario">
+                        <tspan x="27" y="14">Scenario</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Group-13" transform="translate(720.000000, 90.000000)">
+            <g id="Group">
+                <text id="Assumptions" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Assumptions</tspan>
+                </text>
+                <path d="M135,15 C137.761424,15 140,12.7614237 140,10 C140,7.23857625 137.761424,5 135,5 C132.238576,5 130,7.23857625 130,10 C130,12.7614237 132.238576,15 135,15 Z M132.5,9.9246449 L134.409091,11.8181818 L137.136364,8.45454563" id="cons" stroke="#3ABC96" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group-11" transform="translate(0.000000, 40.000000)">
+                <text id="Revenue" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Revenue</tspan>
+                </text>
+                <path d="M135,15 C137.761424,15 140,12.7614237 140,10 C140,7.23857625 137.761424,5 135,5 C132.238576,5 130,7.23857625 130,10 C130,12.7614237 132.238576,15 135,15 Z M132.5,9.9246449 L134.409091,11.8181818 L137.136364,8.45454563" id="cons" stroke="#3ABC96" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group-5" transform="translate(0.000000, 81.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="Expenses">
+                    <tspan x="27" y="14">Expenses</tspan>
+                </text>
+            </g>
+            <g id="expense-2" transform="translate(0.000000, 211.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Capex">
+                        <tspan x="27" y="14">Capex</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-3" transform="translate(0.000000, 251.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="P&amp;L">
+                        <tspan x="27" y="14">P&amp;L</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-4" transform="translate(0.000000, 291.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Balance-Sheet">
+                        <tspan x="27" y="14">Balance Sheet</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-5" transform="translate(0.000000, 331.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="CF">
+                        <tspan x="27" y="14">CF</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-6" transform="translate(0.000000, 371.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Sensitivity">
+                        <tspan x="27" y="14">Sensitivity</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="expense-7" transform="translate(0.000000, 411.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="expense">
+                    <text id="Scenario">
+                        <tspan x="27" y="14">Scenario</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-4" transform="translate(0.000000, 111.000000)" fill="#3ABC96" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="--Salary">
+                    <tspan x="37" y="13">- Salary</tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(0.000000, 141.000000)" fill="#889996" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="--Salary">
+                    <tspan x="37" y="13">- Salary</tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(0.000000, 171.000000)" fill="#889996" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="--Salary">
+                    <tspan x="37" y="13">- Salary</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-9" transform="translate(190.000000, 90.000000)">
+            <g id="Group-6">
+                <text id="Assumptions" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#889996">
+                    <tspan x="27" y="14">Assumptions</tspan>
+                </text>
+                <path d="M135,15 C137.761424,15 140,12.7614237 140,10 C140,7.23857625 137.761424,5 135,5 C132.238576,5 130,7.23857625 130,10 C130,12.7614237 132.238576,15 135,15 Z M132.5,9.9246449 L134.409091,11.8181818 L137.136364,8.45454563" id="cons" stroke="#3ABC96" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group-7" transform="translate(0.000000, 40.000000)" fill="#3ABC96" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <g id="Group-2">
+                    <text id="Revenue">
+                        <tspan x="27" y="14">Revenue</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-8" transform="translate(0.000000, 81.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="Expenses">
+                    <tspan x="27" y="14">Expenses</tspan>
+                </text>
+            </g>
+            <g id="expense" transform="translate(0.000000, 121.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="Capex">
+                    <tspan x="27" y="14">Capex</tspan>
+                </text>
+            </g>
+            <g id="expense" transform="translate(0.000000, 161.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="P&amp;L">
+                    <tspan x="27" y="14">P&amp;L</tspan>
+                </text>
+            </g>
+            <g id="expense" transform="translate(0.000000, 201.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="Balance-Sheet">
+                    <tspan x="27" y="14">Balance Sheet</tspan>
+                </text>
+            </g>
+            <g id="expense" transform="translate(0.000000, 241.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="CF">
+                    <tspan x="27" y="14">CF</tspan>
+                </text>
+            </g>
+            <g id="expense" transform="translate(0.000000, 281.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="Sensitivity">
+                    <tspan x="27" y="14">Sensitivity</tspan>
+                </text>
+            </g>
+            <g id="expense" transform="translate(0.000000, 321.000000)" fill="#889996" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="-0.4444444">
+                <text id="Scenario">
+                    <tspan x="27" y="14">Scenario</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
