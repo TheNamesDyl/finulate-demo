@@ -93,8 +93,15 @@ img {
   margin-left: 446.5px;
   margin-top: 320px;
   visibility: hidden;
+}
 
-
+#sub_check {
+  width: 150px;
+  height: 150px;
+  margin-left: 428px;
+  margin-top: 137px;
+  visibility: hidden;
+  z-index: 4;
 }
 
 

@@ -17,7 +17,7 @@
         id="subscrip"
         alt="subscrip"
         src='res/subscription.png'
-        onclick="document.getElementById('Group_add').style.visibility='visible'"
+        onclick="clickSub(this)"
         onmouseout="moveHover(this)"
         onmouseover="hoverBox(this)"
       />
@@ -35,7 +35,7 @@
       <img 
         id="sub_check"
         alt="sub_check"
-        src="sub_check.png">
+        src="res/sub_check.png">
 
     </div>
     </div>
@@ -51,6 +51,13 @@
         x.src='res/subscription.png';
         x.src='res/subscription.png'
       }
+
+      function clickSub(x){
+        document.getElementById('Group_add').style.visibility='visible'
+        document.getElementById('sub_check').style.visibility='visible'
+      }
+
+
     </script>
 
   </body>
