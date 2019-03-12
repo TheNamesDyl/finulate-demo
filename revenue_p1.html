@@ -66,6 +66,60 @@
         src="res/next.png"
         onclick="next_click(this)">
 
+<!--       5th row -->
+      <img 
+        id="monthly_black"
+        alt="monthly_black"
+        src="res/monthly_black.png"
+        onmouseover="this.src='res/monthly.png'"
+        onmouseout="this.src='res/monthly_black.png'"
+        onclick="monthClick(this)">
+
+      <img 
+        id="monthly_check"
+        alt="monthly_check"
+        src="res/monthly_check.png"
+      >
+
+      <img 
+        id="num_customer"
+        alt="num_customer"
+        src="res/num_customer.png"
+      >
+
+      <input
+        type="text"
+        id="num_cus"
+        name="name"
+        required
+        minlength="4"
+        maxlength="8"
+        size="10"
+      />
+
+      <img 
+        id="growth"
+        alt="growth"
+        src="res/growth.png"
+      >
+
+      <img 
+        id="constant_check"
+        alt="constant_check"
+        src="res/constant_check.png"
+      >
+
+      <img 
+        id="constant_black"
+        alt="constant_black"
+        src="res/constant_black.png"
+        onmouseover="this.src='res/constant.png'"
+        onmouseout="this.src='res/constant_black.png'"
+        onclick="constantClick(this)"
+      >
+
+
+
     </div>
     </div>
 
@@ -111,8 +165,22 @@
         document.getElementById('flat_check').style.visibility='hidden';
         document.getElementById('month').style.visibility='hidden';
         document.getElementById('next').style.visibility='hidden';
-
+        document.getElementById('monthly_black').style.visibility='visible';
       }
+
+      function monthClick(x){
+        document.getElementById('monthly_check').style.visibility='visible';
+        document.getElementById('num_customer').style.visibility='visible';
+        document.getElementById('num_cus').style.visibility='visible';
+        document.getElementById('growth').style.visibility='visible';
+        document.getElementById('constant_black').style.visibility='visible';
+      }
+
+      function constantClick(x){
+        document.getElementById('constant_check').style.visibility='visible';
+        document.getElementById('next').style.visibility='visible';
+      }
+      
 
        
     </script>
