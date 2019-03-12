@@ -110,6 +110,16 @@ img {
   margin-left: 916px;
   margin-top: 369px;
   z-index: 5;
+  visibility: hidden;
+}
+
+#flat_fee_green {
+  width: 150px;
+  height: 152px;
+  margin-left: 916px;
+  margin-top: 369px;
+  z-index: 5;
+  visibility: hidden;
 }
 
 #flat_check {
@@ -118,6 +128,7 @@ img {
   margin-left: 916px;
   margin-top: 369px;
   z-index: 6;
+  visibility: hidden;
 }
 
 #flat_fee_hover {
@@ -126,6 +137,7 @@ img {
   margin-left: 1065px;
   margin-top: 437px;
   z-index: 5;
+  visibility: hidden;
 }
 
 #month {
@@ -134,6 +146,16 @@ img {
   margin-left: 550px;
   margin-top: 550px;
   z-index: 2;
+  visibility: hidden;
+}
+
+#next {
+  width: 100px;
+  height: 40px;
+  margin-left: 1235px;
+  margin-top: 735px;
+  z-index: 2;
+
 }
 
 

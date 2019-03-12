@@ -18,7 +18,7 @@
         alt="subscrip"
         src='res/subscription.png'
         onclick="clickSub(this)"
-        onmouseout="moveHover(this)"
+        onmouseout="removeHover(this)"
         onmouseover="hoverBox(this)"
       />
 
@@ -40,7 +40,10 @@
       <img 
         id="flat_fee"
         alt="flat_fee"
-        src="res/flat_fee.png">
+        src="res/flat_black.png"
+        onclick="flat_clickSub(this)"
+        onmouseout="flat_removeHover(this)"
+        onmouseover="flat_hoverBox(this)">
 
       <img 
         id="flat_fee_hover"
@@ -52,10 +55,15 @@
         alt="month"
         src="res/month.png">
 
-       <img 
+      <img 
         id="flat_check"
         alt="flat_check"
         src="res/flat_check.png">
+
+      <img 
+        id="next"
+        alt="next"
+        src="res/next.png">
 
     </div>
     </div>
@@ -66,17 +74,32 @@
         x.src='res/subscription_green.png';
       }
 
-      function moveHover(x){
+      function removeHover(x){
         document.getElementById('hover_cus').style.visibility='hidden';
         x.src='res/subscription.png';
-        x.src='res/subscription.png'
       }
 
       function clickSub(x){
         document.getElementById('Group_add').style.visibility='visible'
         document.getElementById('sub_check').style.visibility='visible'
+        document.getElementById('flat_fee').style.visibility='visible'
       }
 
+      function flat_hoverBox(x) {
+        document.getElementById('flat_fee_hover').style.visibility='visible';
+        x.src='res/flat_fee_green.png';
+      }
+
+      function flat_removeHover(x){
+        document.getElementById('flat_fee_hover').style.visibility='hidden';
+        x.src='res/flat_black.png';
+      }
+
+      function flat_clickSub(x){
+        document.getElementById('month').style.visibility='visible';
+        document.getElementById('flat_check').style.visibility='visible';
+        document.getElementById('next').style.visibility='visible';
+      }
 
     </script>
 
