@@ -63,7 +63,8 @@
       <img 
         id="next"
         alt="next"
-        src="res/next.png">
+        src="res/next.png"
+        onclick="next_click(this)">
 
     </div>
     </div>
@@ -101,6 +102,19 @@
         document.getElementById('next').style.visibility='visible';
       }
 
+      function next_click(X){
+        document.getElementById('homescreen').src='res/4_revenue_q2.png';
+        document.getElementById('subscrip').style.visibility='hidden';
+        document.getElementById('Group_add').style.visibility='hidden';
+        document.getElementById('sub_check').style.visibility='hidden';
+        document.getElementById('flat_fee').style.visibility='hidden';
+        document.getElementById('flat_check').style.visibility='hidden';
+        document.getElementById('month').style.visibility='hidden';
+        document.getElementById('next').style.visibility='hidden';
+
+      }
+
+       
     </script>
 
   </body>

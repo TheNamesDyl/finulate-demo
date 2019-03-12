@@ -155,6 +155,7 @@ img {
   margin-left: 1235px;
   margin-top: 735px;
   z-index: 2;
+  visibility: hidden;
 
 }
 
