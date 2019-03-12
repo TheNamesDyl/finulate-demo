@@ -62,16 +62,43 @@ img {
   cursor: pointer;
   color: #889996;
 
-  /*  font-family: HindMadurai;
-  font-weight: bold;*/
-
-  /*  letter-spacing: -0.7px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;*/
-
   margin-left: 55.21%;
   margin-top: 500px;
   position: fixed;
   z-index: 2;
 }
+
+
+/*For page revenue*/
+#subscrip {
+  z-index: 2;
+  width: 150px;
+  height: 150px;
+  margin-left: 428px;
+  margin-top: 137px;
+}
+
+#hover_cus {
+  width: 226px;
+  height: 97px;
+  margin-left: 577px;
+  margin-top: 215px;
+  z-index: 3;
+  visibility: hidden;
+}
+
+#Group_add {
+  width: 672px;
+  height: 200px;
+  margin-left: 446.5px;
+  margin-top: 320px;
+  visibility: hidden;
+
+
+}
+
+
+
+
+
+

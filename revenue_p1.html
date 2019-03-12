@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="login.css" />
+    <script src="login.js"></script>
+
+  </head>
+  <body>
+    <div id="fullscreen">
+      <img
+        class="screens"
+        id="homescreen"
+        alt="second page"
+        src="res/3_revenue_q1.png"
+      />
+    <div>
+      <img
+        id="subscrip"
+        alt="subscrip"
+        src='res/subscription.png'
+        onclick="document.getElementById('Group_add').style.visibility='visible'"
+        onmouseout="moveHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img 
+        id="hover_cus"
+        alt="hover_cus"
+        src="res/hover_cus.png">
+
+      <img 
+        id="Group_add"
+        alt="Group_add"
+        src="res/Group_add.png">
+
+      <img 
+        id="sub_check"
+        alt="sub_check"
+        src="sub_check.png">
+
+    </div>
+    </div>
+
+    <script>
+      function hoverBox(x) {
+        document.getElementById('hover_cus').style.visibility='visible';
+        x.src='res/subscription_green.png';
+      }
+
+      function moveHover(x){
+        document.getElementById('hover_cus').style.visibility='hidden';
+        x.src='res/subscription.png';
+        x.src='res/subscription.png'
+      }
+    </script>
+
+  </body>
+</html>
