@@ -90,8 +90,8 @@ img {
 #Group_add {
   width: 672px;
   height: 200px;
-  margin-left: 446.5px;
-  margin-top: 320px;
+  margin-left: 476px;
+  margin-top: 321px;
   visibility: hidden;
 }
 
@@ -102,6 +102,38 @@ img {
   margin-top: 137px;
   visibility: hidden;
   z-index: 4;
+}
+
+#flat_fee {
+  width: 150px;
+  height: 152px;
+  margin-left: 916px;
+  margin-top: 369px;
+  z-index: 5;
+}
+
+#flat_check {
+  width: 150px;
+  height: 152px;
+  margin-left: 916px;
+  margin-top: 369px;
+  z-index: 6;
+}
+
+#flat_fee_hover {
+  width: 200px;
+  height: 213px;
+  margin-left: 1065px;
+  margin-top: 437px;
+  z-index: 5;
+}
+
+#month {
+  width: 493px;
+  height: 86px;
+  margin-left: 550px;
+  margin-top: 550px;
+  z-index: 2;
 }
 
 
