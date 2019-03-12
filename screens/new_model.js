@@ -1,10 +1,7 @@
 (function() {
   currentScreen = $("homescreen");
 
-  window.onload = function() {
-    
-    );
-  };
+  window.onload = function() {};
 
   function currentScreen(beforeScreen, afterScreen) {
     currentScreen = afterScreen;
