@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="826px" viewBox="0 0 1440 826" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>2_setup1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="2_setup1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background">
+            <rect fill="#F5FBFA" x="0" y="0" width="1440" height="1024"></rect>
+            <rect id="top" stroke="#BFE6DB" stroke-width="2" fill="#FFFFFF" x="-1" y="-1" width="1442" height="62"></rect>
+            <g id="menu" transform="translate(27.000000, 13.000000)">
+                <text id="Finulate" font-family="Helvetica" font-size="28" font-weight="normal" letter-spacing="-0.6913579" fill="#3ABC96">
+                    <tspan x="30" y="28">Finulate</tspan>
+                </text>
+                <path d="M-3.55271368e-15,12 L15,12 L-3.55271368e-15,12 Z M0,22.9223301 L15,22.9223301 L0,22.9223301 Z M0,17.461165 L15,17.461165 L0,17.461165 Z" stroke="#889996" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="user" transform="translate(1313.000000, 15.000000)">
+                <text id="kathy3" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.345679" fill="#889996">
+                    <tspan x="32" y="16">kathy3</tspan>
+                </text>
+                <path d="M10.5,15.500909 C13.5375661,15.500909 16,13.0384751 16,10.000909 C16,6.96334288 13.5375661,4.500909 10.5,4.500909 C7.46243388,4.500909 5,6.96334288 5,10.000909 C5,13.0384751 7.46243388,15.500909 10.5,15.500909 Z M3,20.967973 C3.15,18.750909 6.01060486,15.500909 10.5053024,15.500909 C15,15.500909 18,18.750909 18,21.000909 M18.6136364,1.42108547e-14 C19.9315886,1.37919009e-14 21,1.06841176 21,2.386364 L21,18.6145454 C21,19.8797796 19.974325,21.000909 18.7090908,21.000909 L2.29090918,21.000909 C1.02567498,21.000909 4.45148968e-14,19.8797796 4.4408921e-14,18.6145454 L4.4408921e-14,2.290909 C4.92838094e-14,1.0256748 1.02567498,5.15159631e-14 2.29090918,5.15159631e-14 L18.6136364,1.42108547e-14 Z" stroke="#889996" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+        <g id="Group-2" transform="translate(456.000000, 144.000000)">
+            <text id="Start-Date" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.4444444" fill="#889996">
+                <tspan x="0" y="14">Start Date</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0.5" y="25.5" width="527" height="41" rx="2"></rect>
+            <text id="6/1/2019" font-family="HindMadurai-Regular, Hind Madurai" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#000000">
+                <tspan x="14" y="50">6/1/2019</tspan>
+            </text>
+            <polygon id="Triangle" stroke="#000000" fill="#000000" transform="translate(501.500000, 43.000000) scale(1, -1) translate(-501.500000, -43.000000) " points="501.5 40 506 46 497 46"></polygon>
+        </g>
+        <g id="Group-2" transform="translate(457.000000, 554.000000)">
+            <text id="Industry" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.4444444" fill="#889996">
+                <tspan x="0" y="14">Industry</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0.5" y="25.5" width="527" height="41" rx="2"></rect>
+            <text id="SaaS" font-family="HindMadurai-Regular, Hind Madurai" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#000000">
+                <tspan x="14" y="50">SaaS</tspan>
+            </text>
+            <polygon id="Triangle" stroke="#000000" fill="#000000" transform="translate(501.500000, 43.000000) scale(1, -1) translate(-501.500000, -43.000000) " points="501.5 40 506 46 497 46"></polygon>
+        </g>
+        <g id="Group" transform="translate(456.000000, 62.000000)">
+            <text id="Model-Name" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.4444444" fill="#889996">
+                <tspan x="0" y="14">Model Name</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0.5" y="25.5" width="527" height="41" rx="2"></rect>
+            <text id="Global-PM" font-family="HindMadurai-Regular, Hind Madurai" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#000000">
+                <tspan x="14" y="49">Global PM</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(456.000000, 226.000000)">
+            <text id="Duration" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.4444444" fill="#889996">
+                <tspan x="0" y="14">Duration</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0.5" y="25.5" width="527" height="41" rx="2"></rect>
+            <text id="5-years" font-family="HindMadurai-Regular, Hind Madurai" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#000000">
+                <tspan x="14" y="50">5 years</tspan>
+            </text>
+        </g>
+        <g id="Group-5" transform="translate(456.000000, 308.000000)">
+            <text id="Frequency" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.4444444" fill="#889996">
+                <tspan x="0" y="14">Frequency</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0.5" y="25.5" width="527" height="41" rx="2"></rect>
+            <text id="Month" font-family="HindMadurai-Regular, Hind Madurai" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#000000">
+                <tspan x="14" y="50">Month</tspan>
+            </text>
+            <polygon id="Triangle" stroke="#000000" fill="#000000" transform="translate(501.500000, 46.000000) scale(1, -1) translate(-501.500000, -46.000000) " points="501.5 43 506 49 497 49"></polygon>
+        </g>
+        <g id="Group-6" transform="translate(456.000000, 390.000000)">
+            <text id="Currency" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.4444444" fill="#889996">
+                <tspan x="0" y="14">Currency</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0.5" y="25.5" width="527" height="41" rx="2"></rect>
+            <text id="USD" font-family="HindMadurai-Regular, Hind Madurai" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#000000">
+                <tspan x="14" y="50">USD</tspan>
+            </text>
+            <polygon id="Triangle" stroke="#000000" fill="#000000" transform="translate(501.500000, 46.000000) scale(1, -1) translate(-501.500000, -46.000000) " points="501.5 43 506 49 497 49"></polygon>
+        </g>
+        <g id="button" transform="translate(516.000000, 748.000000)">
+            <g id="Group-4">
+                <rect id="Rectangle" fill="#3ABC96" x="0" y="0" width="411" height="47" rx="23.5"></rect>
+                <text id="Start-Building-Model" font-family="HindMadurai-Bold, Hind Madurai" font-size="16" font-weight="bold" letter-spacing="-0.4444444" fill="#FFFFFF">
+                    <tspan x="135" y="29">Start Building Model</tspan>
+                </text>
+            </g>
+            <text id="Your-answers-will-be" font-family="HindMadurai-Regular, Hind Madurai" font-size="12" font-weight="normal" letter-spacing="-0.4444444" fill="#0000EE">
+                <tspan x="100" y="67">Your answers will be saved to “Assumptions”</tspan>
+            </text>
+        </g>
+        <text id="Why-do-we-ask-this?" font-family="HindMadurai-Regular, Hind Madurai" font-size="12" font-weight="normal" letter-spacing="-0.4444444" fill="#0000EE">
+            <tspan x="887" y="551">Why do we ask this?</tspan>
+        </text>
+        <g id="Group" transform="translate(457.000000, 472.000000)">
+            <text id="Location" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.4444444" fill="#889996">
+                <tspan x="0" y="14">Location</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0.5" y="25.5" width="527" height="41" rx="2"></rect>
+            <text id="Seattle,-WA" font-family="HindMadurai-Regular, Hind Madurai" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#000000">
+                <tspan x="14" y="49">Seattle, WA</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(457.000000, 636.000000)">
+            <text id="Competitors" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.4444444" fill="#889996">
+                <tspan x="0" y="14">Competitors </tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" x="0.5" y="25.5" width="527" height="41" rx="2"></rect>
+            <text id="Smartsheet/Slack" font-family="HindMadurai-Regular, Hind Madurai" font-size="14" font-weight="normal" letter-spacing="-0.4444444" fill="#000000">
+                <tspan x="14" y="49">Smartsheet/Slack</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

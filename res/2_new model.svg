@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="826px" viewBox="0 0 1440 826" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>2_new model</title>
+    <desc>Created with Sketch.</desc>
+    <g id="2_new-model" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background">
+            <rect fill="#F5FBFA" x="0" y="0" width="1440" height="1024"></rect>
+            <rect id="top" stroke="#BFE6DB" stroke-width="2" fill="#FFFFFF" x="-1" y="-1" width="1442" height="62"></rect>
+            <g id="menu" transform="translate(27.000000, 13.000000)">
+                <text id="Finulate" font-family="Helvetica" font-size="28" font-weight="normal" letter-spacing="-0.6913579" fill="#3ABC96">
+                    <tspan x="30" y="28">Finulate</tspan>
+                </text>
+                <path d="M-3.55271368e-15,12 L15,12 L-3.55271368e-15,12 Z M0,22.9223301 L15,22.9223301 L0,22.9223301 Z M0,17.461165 L15,17.461165 L0,17.461165 Z" stroke="#889996" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="user" transform="translate(1313.000000, 15.000000)">
+                <text id="kathy3" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.345679" fill="#889996">
+                    <tspan x="32" y="16">kathy3</tspan>
+                </text>
+                <path d="M10.5,15.500909 C13.5375661,15.500909 16,13.0384751 16,10.000909 C16,6.96334288 13.5375661,4.500909 10.5,4.500909 C7.46243388,4.500909 5,6.96334288 5,10.000909 C5,13.0384751 7.46243388,15.500909 10.5,15.500909 Z M3,20.967973 C3.15,18.750909 6.01060486,15.500909 10.5053024,15.500909 C15,15.500909 18,18.750909 18,21.000909 M18.6136364,1.42108547e-14 C19.9315886,1.37919009e-14 21,1.06841176 21,2.386364 L21,18.6145454 C21,19.8797796 19.974325,21.000909 18.7090908,21.000909 L2.29090918,21.000909 C1.02567498,21.000909 4.45148968e-14,19.8797796 4.4408921e-14,18.6145454 L4.4408921e-14,2.290909 C4.92838094e-14,1.0256748 1.02567498,5.15159631e-14 2.29090918,5.15159631e-14 L18.6136364,1.42108547e-14 Z" stroke="#889996" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+        <g id="list" transform="translate(353.000000, 157.000000)">
+            <rect id="moreinfo" stroke="#3ABC96" fill="#FFFFFF" x="-0.5" y="19.5" width="736" height="477"></rect>
+            <text id="Your-Models" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.4444444" fill="#889996">
+                <tspan x="0" y="14">Your Models</tspan>
+            </text>
+            <path d="M0,66.5 L735,66.5" id="Line-3" stroke="#979797" stroke-linecap="square"></path>
+            <text id="Boba-Time-Inc" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.4444444" fill="#889996">
+                <tspan x="14" y="48">Boba Time Inc</tspan>
+            </text>
+            <text id="Last-Accessed:-March" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.4444444" fill="#889996">
+                <tspan x="523" y="48">Last Accessed: March 5th</tspan>
+            </text>
+        </g>
+        <g id="button" transform="translate(515.000000, 294.000000)">
+            <rect id="Rectangle" fill="#3ABC96" x="0" y="0" width="411" height="47" rx="23.5"></rect>
+            <text id="+-New-Model" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.4444444" fill="#FFFFFF">
+                <tspan x="165.909444" y="28">+ New Model</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
