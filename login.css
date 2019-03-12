@@ -236,7 +236,99 @@ img {
   visibility: hidden;
 }
 
+/*expenses_q1*/
 
+#per_rev {
+  width: 150px;
+  height: 70px;
+  margin-left: 233px;
+  margin-top: 170px;
+}
+
+#exe_team {
+  width: 150px;
+  height: 70px;
+  margin-left: 233px;
+  margin-top: 277px;
+}
+
+#sales_business {
+  width: 150px;
+  height: 70px;
+  margin-left: 623px;
+  margin-top: 277px;
+}
+
+
+#product_dev {
+  width: 150px;
+  height: 70px;
+  margin-left: 1013px;
+  margin-top: 277px;
+}
+
+#digi_search {
+  width: 150px;
+  height: 70px;
+  margin-left: 623px;
+  margin-top: 384px;
+}
+
+#travel_exp {
+  width: 150px;
+  height: 70px;
+  margin-left: 1208px;
+  margin-top: 384px;
+}
+
+#account {
+  width: 150px;
+  height: 70px;
+  margin-left: 233px;
+  margin-top: 490px;
+}
+
+#legal {
+  width: 150px;
+  height: 70px;
+  margin-left: 428px;
+  margin-top: 490px;
+}
+
+#tech {
+  width: 150px;
+  height: 70px;
+  margin-left: 623px;
+  margin-top: 490px;
+}
+
+#insurance {
+  width: 150px;
+  height: 70px;
+  margin-left: 1208px;
+  margin-top: 490px;
+}
+
+#rent {
+  width: 150px;
+  height: 70px;
+  margin-left: 233px;
+  margin-top: 598px;
+}
+
+#travel_en {
+  width: 150px;
+  height: 70px;
+  margin-left: 818px;
+  margin-top: 598px;
+}
+
+#miscell {
+  width: 150px;
+  height: 70px;
+  margin-left: 1208px;
+  margin-top: 598px;
+}
 
 
 
