@@ -569,3 +569,12 @@ select {
   z-index: 2;
   visibility: hidden;
 }
+
+/*
+ *  expense q3
+ */
+
+#cf_expense_q3 {
+  margin-left: 0.3%;
+  margin-top: 532px;
+}
