@@ -308,6 +308,49 @@ select {
   visibility: hidden;
 }
 
+/*
+ *  Revenue page 3
+ */
+
+#use_saas_average {
+  width: 13.88%;
+  height: 30px;
+  margin-left: 81.94%;
+  margin-top: 286px;
+}
+
+#revenue_p3_next {
+  width: 6.94%;
+  height: 40px;
+  margin-left: 88.88%;
+  margin-top: 750px;
+}
+
+#revenue_p3_back {
+  width: 6.94%;
+  height: 40px;
+  margin-left: 54.16%;
+  margin-top: 750px;
+}
+
+/*
+ *  Revenue review
+ */
+
+#rev_review_next {
+  width: 6.94%;
+  height: 40px;
+  margin-left: 85.76%;
+  margin-top: 750px;
+}
+
+#rev_review_back {
+  width: 6.94%;
+  height: 40px;
+  margin-left: 17.71%;
+  margin-top: 750px;
+}
+
 /*expenses_q1*/
 
 #per_rev {

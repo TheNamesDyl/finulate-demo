@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="../login.css" />
+    <script src="new_model.js"></script>
+  </head>
+  <body>
+    <div id="fullscreen">
+      <img
+        class="screensLarge"
+        id="homescreen"
+        src="../res/6_revenue_review1.svg"
+      />
+      <img
+        id="rev_review_next"
+        src="../res/next.png"
+        onclick="showNextScreen(this)"
+      />
+
+      <img id="rev_review_back" src="../res/back.png" onclick="goBack(this)" />
+    </div>
+  </body>
+
+  <script>
+    let screenIter = 0;
+    function showNextScreen(x) {
+      screenIter++;
+      showAccurateScreen();
+    }
+
+    function showAccurateScreen() {
+      if (screenIter == 0) {
+        document.getElementById("homescreen").src =
+          "../res/6_revenue_review1.svg";
+      } else if (screenIter == 1) {
+        document.getElementById("homescreen").src =
+          "../res/6_revenue_review2.svg";
+      } else if (screenIter == 2) {
+        document.getElementById("homescreen").src =
+          "../res/6_revenue_review3.svg";
+      } else if (screenIter == 3) {
+        document.getElementById("homescreen").src =
+          "../res/6_revenue_review4.svg";
+      } else if (screenIter == 4) {
+        window.location.href = "../expense_q1.html";
+      }
+    }
+
+    function goBack(x) {
+      screenIter--;
+      showAccurateScreen();
+    }
+  </script>
+</html>

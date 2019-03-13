@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="30px" viewBox="0 0 200 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5_revenue_q3_1" transform="translate(-1180.000000, -286.000000)">
+            <g id="Group-9" transform="translate(1180.000000, 286.000000)">
+                <rect id="Rectangle" fill="#3ABC96" x="0" y="0" width="200" height="30" rx="15"></rect>
+                <text id="Use-SaaS-Average-Rat" font-family="HindMadurai-Bold, Hind Madurai" font-size="16" font-weight="bold" letter-spacing="-0.6763282" fill="#FFFFFF">
+                    <tspan x="16" y="20">Use SaaS Average Rate</tspan>
+                </text>
+                <polyline id="next" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(182.000000, 15.500000) scale(-1, -1) rotate(180.000000) translate(-182.000000, -15.500000) " points="187 13 182 18 177 13"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
