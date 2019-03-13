@@ -1,0 +1,96 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="login.css" />
+    <script src="login.js"></script>
+  </head>
+  <body>
+    <div id="fullscreen">
+      <img
+        class="screens"
+        id="homescreen"
+        alt="second page"
+        src="res/expense_q2.png"
+      />
+    </div>
+
+    <div>
+      
+      <input
+        type="text"
+        id="rev_input"
+        name="name"
+        required
+        minlength="4"
+        maxlength="8"
+        size="10"
+
+      />
+
+      <img 
+        id="insight"
+        alt="insight"
+        src="res/insight.png"
+      >
+
+      <img 
+        id="next_exp"
+        alt="next_exp"
+        src="res/next.png"
+        onclick="jump()">
+
+      <img 
+        id="next_jump"
+        alt="next_jump"
+        src="res/next.png"
+        onclick="showInsight()">
+
+      <img 
+        id="immedia_black"
+        alt="immedia_black"
+        src="res/immedia_black.png"
+        onclick="clickIm(this)"
+        onmouseout="im_removeHover(this)"
+        onmouseover="im_hover(this)"
+      >
+
+      <img 
+        id="immedia_green"
+        alt="immedia_green"
+        src="res/immedia_green.png"
+        onclick="clickIm(this)"
+      >
+
+
+    </div>
+
+    <script>
+      function showInsight() {
+        document.getElementById('insight').style.visibility='visible';
+        document.getElementById('next_exp').style.visibility='visible';
+      }
+
+      function jump() {
+        document.getElementById('insight').style.visibility='hidden';
+        document.getElementById('rev_input').style.visibility='hidden';
+        document.getElementById('homescreen').src='res/expense_q2_3.png';
+        document.getElementById('next_jump').style.visibility='hidden';
+        document.getElementById('next_exp').style.visibility='hidden';
+        document.getElementById('immedia_black').style.visibility='visible';
+      }
+
+      function clickIm(x){
+        document.getElementById('immedia_green').style.visibility='visible'
+      }
+
+      function im_removeHover(x){
+        x.src='res/immedia_black.png';
+      } 
+
+      function im_hover(x){
+        x.src='res/immedia_hover.png';
+      }   
+      
+
+    </script>
+  </body>
+</html>
