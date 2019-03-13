@@ -8,7 +8,12 @@
   overflow: hidden;
 }
 
-.screens {
+.screensSmall {
+  width: 100%;
+  height: 810px;
+  display: block;
+}
+.screensLarge {
   width: 100%;
   height: 826px;
   display: block;
@@ -33,14 +38,14 @@ select {
 
 #name {
   margin-left: 51.45%;
-  margin-top: 297px;
+  margin-top: 291px;
   width: 36.66%;
   height: 42px;
 }
 
 #pass {
   margin-left: 51.45%;
-  margin-top: 401px;
+  margin-top: 393px;
   width: 36.66%;
   height: 42px;
 }
@@ -51,11 +56,11 @@ select {
 
 #sign_in {
   border: none;
-  color: #889996;
+  color: white;
   width: 28.54%;
+  border-radius: 25px;
   height: 47px;
   background-color: #ceeee5;
-
   font-family: HindMadurai;
   font-size: 21px;
   font-weight: bold;
@@ -64,15 +69,27 @@ select {
   line-height: normal;
   letter-spacing: -0.7px;
   cursor: pointer;
-  color: #889996;
   margin-left: 55.21%;
-  margin-top: 508px;
+  margin-top: 500px;
   position: fixed;
   z-index: 2;
 }
 
+.button {
+  cursor: pointer;
+}
 /*
- *  New model screen (screen 3)
+ *  New model screen (screen 2)
+ */
+
+#new_model_button {
+  width: 28.6%;
+  margin-left: 35.8%;
+  margin-top: 294px;
+}
+
+/*
+ *  Model setup screen (screen 3)
  */
 .model_inputs {
   z-index: 1;
@@ -124,4 +141,169 @@ select {
   margin-left: 35.8%;
   margin-top: 748px;
   cursor: pointer;
+}
+
+/*For page revenue*/
+#subscrip {
+  z-index: 2;
+  width: 10.42%;
+  height: 153px;
+  margin-left: 29.72%;
+  margin-top: 137px;
+}
+
+#hover_cus {
+  width: 15.69%;
+  height: 100px;
+  margin-left: 40.07%;
+  margin-top: 215px;
+  z-index: 3;
+  visibility: hidden;
+}
+
+#Group_add {
+  width: 46.66%;
+  height: 203px;
+  margin-left: 33.05%;
+  margin-top: 321px;
+  visibility: hidden;
+}
+
+#sub_check {
+  width: 10.42%;
+  height: 153px;
+  margin-left: 29.72%;
+  margin-top: 137px;
+  visibility: hidden;
+  z-index: 4;
+}
+
+#flat_fee {
+  width: 10.42%;
+  height: 155px;
+  margin-left: 63.61%;
+  margin-top: 369px;
+  z-index: 5;
+  visibility: hidden;
+}
+
+#flat_fee_green {
+  width: 10.42%;
+  height: 155px;
+  margin-left: 63.61%;
+  margin-top: 369px;
+  z-index: 5;
+  visibility: hidden;
+}
+
+#flat_check {
+  width: 10.42%;
+  height: 155px;
+  margin-left: 63.61%;
+  margin-top: 369px;
+  z-index: 6;
+  visibility: hidden;
+}
+
+#flat_fee_hover {
+  width: 13.88%;
+  height: 213px;
+  margin-left: 73.96%;
+  margin-top: 437px;
+  z-index: 5;
+  visibility: hidden;
+}
+
+#month {
+  width: 34.24%;
+  height: 86px;
+  margin-left: 38.19%;
+  margin-top: 550px;
+  z-index: 2;
+  visibility: hidden;
+}
+
+#next {
+  width: 6.94%;
+  height: 40px;
+  margin-left: 85.76%;
+  margin-top: 735px;
+  z-index: 2;
+  visibility: hidden;
+}
+
+/*revenue_page2*/
+
+#monthly_black {
+  width: 10.42%;
+  height: 150px;
+  margin-left: 56.81%;
+  margin-top: 136px;
+  z-index: 2;
+  visibility: hidden;
+}
+#monthly_check {
+  width: 10.42%;
+  height: 150px;
+  margin-left: 56.81%;
+  margin-top: 136px;
+  z-index: 2;
+  visibility: hidden;
+}
+
+#num_customer {
+  width: 51.18%;
+  height: 86px;
+  margin-left: 29.65%;
+  margin-top: 320px;
+  z-index: 1;
+  visibility: hidden;
+}
+
+#num_cus {
+  position: fixed;
+  width: 14.03%;
+  height: 39px;
+  margin-left: 48.19%;
+  margin-top: 367px;
+  border-radius: 4px;
+  border: solid 1px #3abc96;
+  background-color: #ceeee5;
+  visibility: visible;
+  z-index: 2;
+  visibility: hidden;
+  font-family: HindMadurai;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.3px;
+  color: #3abc96;
+}
+
+#growth {
+  margin-left: 22.99%;
+  margin-top: 436px;
+  width: 64.44%;
+  height: 200px;
+  visibility: hidden;
+}
+
+#constant_black {
+  width: 10.42%;
+  height: 155px;
+  margin-left: 43.26%;
+  margin-top: 481px;
+  z-index: 2;
+  visibility: hidden;
+}
+
+#constant_check {
+  width: 10.42%;
+  height: 155px;
+  margin-left: 43.26%;
+  margin-top: 481px;
+  z-index: 3;
+  visibility: hidden;
 }

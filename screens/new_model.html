@@ -1,70 +1,22 @@
 <html>
   <head>
     <link rel="stylesheet" href="../login.css" />
-    <script src="new_model.js"></script>
+    <script src="../login.js"></script>
   </head>
   <body>
     <div id="fullscreen">
-      <img class="screens" id="homescreen" src="../res/screens/2_setup.svg" />
       <img
-        id="start_building_model"
-        src="../res/buttons/start_building_model.svg"
+        class="screensLarge"
+        id="homescreen"
+        alt="second page"
+        src="../res/2_new_model.svg"
       />
 
-      <input
-        type="text"
-        id="model_name"
-        class="model_inputs"
-        value="Global PM"
-      />
-
-      <input
-        type="text"
-        id="model_date"
-        class="model_inputs drop"
-        value="6/1/2019"
-      />
-
-      <input
-        type="text"
-        id="model_duration"
-        class="model_inputs"
-        value="5 years"
-      />
-
-      <input
-        type="text"
-        id="model_frequency"
-        class="model_inputs drop"
-        value="Month"
-      />
-
-      <input
-        type="text"
-        id="model_currency"
-        class="model_inputs drop"
-        value="USD"
-      />
-
-      <input
-        type="text"
-        id="model_location"
-        class="model_inputs"
-        value="Seattle, WA"
-      />
-
-      <input
-        type="text"
-        id="model_industry"
-        class="model_inputs drop"
-        value="SaaS"
-      />
-
-      <input
-        type="text"
-        id="model_competitors"
-        class="model_inputs"
-        value="Smartsheet/Slack"
+      <img
+        id="new_model_button"
+        class="button"
+        src="../res/buttons/new_model_button.svg"
+        onclick="window.location.href = 'model_setup.html'"
       />
     </div>
   </body>

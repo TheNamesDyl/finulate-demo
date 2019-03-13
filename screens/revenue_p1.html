@@ -1,0 +1,169 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="../login.css" />
+    <script src="../login.js"></script>
+  </head>
+  <body>
+    <div id="fullscreen">
+      <img
+        class="screensSmall"
+        id="homescreen"
+        alt="second page"
+        src="../res/3_revenue_q1.svg"
+      />
+      <div>
+        <img
+          id="subscrip"
+          alt="subscrip"
+          class="button"
+          src="../res/subscription.png"
+          onclick="clickSub(this)"
+          onmouseout="removeHover(this)"
+          onmouseover="hoverBox(this)"
+        />
+
+        <img id="hover_cus" alt="hover_cus" src="../res/hover_cus.png" />
+
+        <img id="Group_add" alt="Group_add" src="../res/Group_add.png" />
+
+        <img id="sub_check" alt="sub_check" src="../res/sub_check.png" />
+
+        <img
+          id="flat_fee"
+          alt="flat_fee"
+          class="button"
+          src="../res/flat_black.png"
+          onclick="flat_clickSub(this)"
+          onmouseout="flat_removeHover(this)"
+          onmouseover="flat_hoverBox(this)"
+        />
+
+        <img
+          id="flat_fee_hover"
+          alt="flat_fee_hover"
+          src="../res/flat_fee_hover.png"
+        />
+
+        <img id="month" alt="month" src="../res/month.png" />
+
+        <img id="flat_check" alt="flat_check" src="../res/flat_check.png" />
+
+        <img
+          id="next"
+          class="button"
+          alt="next"
+          src="../res/next.png"
+          onclick="next_click(this)"
+        />
+
+        <!--       5th row -->
+        <img
+          id="monthly_black"
+          alt="monthly_black"
+          src="../res/monthly_black.png"
+          onmouseover="this.src='../res/monthly.png'"
+          onmouseout="this.src='../res/monthly_black.png'"
+          onclick="monthClick(this)"
+        />
+
+        <img
+          id="monthly_check"
+          alt="monthly_check"
+          src="../res/monthly_check.png"
+        />
+
+        <img
+          id="num_customer"
+          alt="num_customer"
+          src="../res/num_customer.png"
+        />
+
+        <input
+          type="text"
+          id="num_cus"
+          name="name"
+          required
+          minlength="4"
+          maxlength="8"
+          size="10"
+        />
+
+        <img id="growth" alt="growth" src="../res/growth.png" />
+
+        <img
+          id="constant_check"
+          alt="constant_check"
+          src="../res/constant_check.png"
+        />
+
+        <img
+          id="constant_black"
+          alt="constant_black"
+          src="../res/constant_black.png"
+          onmouseover="this.src='../res/constant.png'"
+          onmouseout="this.src='../res/constant_black.png'"
+          onclick="constantClick(this)"
+        />
+      </div>
+    </div>
+
+    <script>
+      function hoverBox(x) {
+        document.getElementById("hover_cus").style.visibility = "visible";
+        x.src = "../res/subscription_green.png";
+      }
+
+      function removeHover(x) {
+        document.getElementById("hover_cus").style.visibility = "hidden";
+        x.src = "../res/subscription.png";
+      }
+
+      function clickSub(x) {
+        document.getElementById("Group_add").style.visibility = "visible";
+        document.getElementById("sub_check").style.visibility = "visible";
+        document.getElementById("flat_fee").style.visibility = "visible";
+      }
+
+      function flat_hoverBox(x) {
+        document.getElementById("flat_fee_hover").style.visibility = "visible";
+        x.src = "../res/flat_fee_green.png";
+      }
+
+      function flat_removeHover(x) {
+        document.getElementById("flat_fee_hover").style.visibility = "hidden";
+        x.src = "../res/flat_black.png";
+      }
+
+      function flat_clickSub(x) {
+        document.getElementById("month").style.visibility = "visible";
+        document.getElementById("flat_check").style.visibility = "visible";
+        document.getElementById("next").style.visibility = "visible";
+      }
+
+      function next_click(X) {
+        document.getElementById("homescreen").src = "../res/4_revenue_q2.png";
+        document.getElementById("subscrip").style.visibility = "hidden";
+        document.getElementById("Group_add").style.visibility = "hidden";
+        document.getElementById("sub_check").style.visibility = "hidden";
+        document.getElementById("flat_fee").style.visibility = "hidden";
+        document.getElementById("flat_check").style.visibility = "hidden";
+        document.getElementById("month").style.visibility = "hidden";
+        document.getElementById("next").style.visibility = "hidden";
+        document.getElementById("monthly_black").style.visibility = "visible";
+      }
+
+      function monthClick(x) {
+        document.getElementById("monthly_check").style.visibility = "visible";
+        document.getElementById("num_customer").style.visibility = "visible";
+        document.getElementById("num_cus").style.visibility = "visible";
+        document.getElementById("growth").style.visibility = "visible";
+        document.getElementById("constant_black").style.visibility = "visible";
+      }
+
+      function constantClick(x) {
+        document.getElementById("constant_check").style.visibility = "visible";
+        document.getElementById("next").style.visibility = "visible";
+      }
+    </script>
+  </body>
+</html>

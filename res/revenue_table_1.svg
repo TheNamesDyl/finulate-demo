@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="810px" viewBox="0 0 1440 810" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>revenue_table_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 600 0 600 26 0 26"></polygon>
+        <polygon id="path-3" points="0 0 600 0 600 26 0 26"></polygon>
+        <polygon id="path-5" points="0 0 600 0 600 26 0 26"></polygon>
+        <polygon id="path-7" points="0 0 600 0 600 26 0 26"></polygon>
+        <polygon id="path-9" points="0 17 600 17 600 43 0 43"></polygon>
+    </defs>
+    <g id="revenue_table_1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9" transform="translate(40.000000, 90.000000)">
+            <text id="Revenue-Model---Subs" font-family="Helvetica" font-size="28" font-weight="normal" letter-spacing="-0.2962965" fill="#000000">
+                <tspan x="136.604206" y="28">Revenue Model - Subscription</tspan>
+            </text>
+            <g id="Group-3" transform="translate(20.000000, 86.000000)" font-family="Helvetica" font-size="16" font-weight="normal">
+                <g id="a1" transform="translate(450.000000, 0.000000)" fill="#3ABC96" letter-spacing="-0.1481483">
+                    <text>
+                        <tspan x="10" y="17">Constant</tspan>
+                    </text>
+                </g>
+                <text id="q1" letter-spacing="-0.2962965" fill="#000000">
+                    <tspan x="0" y="17">How do you expect your customers to grow?</tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(20.000000, 122.000000)" font-family="Helvetica" font-size="16" font-weight="normal">
+                <g id="a1" transform="translate(450.000000, 0.000000)" fill="#3ABC96" letter-spacing="-0.1481483">
+                    <text>
+                        <tspan x="10" y="17">Monthly</tspan>
+                    </text>
+                </g>
+                <text id="q2" letter-spacing="-0.2962965" fill="#000000">
+                    <tspan x="0" y="17">On which period do you want to estimate the growth?</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(20.000000, 50.000000)" font-family="Helvetica" font-size="16" font-weight="normal">
+                <g id="a1" transform="translate(450.000000, 0.000000)" fill="#3ABC96" letter-spacing="-0.1481483">
+                    <text>
+                        <tspan x="10" y="17">Subscription</tspan>
+                    </text>
+                </g>
+                <text id="q1" letter-spacing="-0.2962965" fill="#000000">
+                    <tspan x="0" y="17">What is your revenue model? </tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(20.000000, 158.000000)" font-family="Helvetica" font-size="16" font-weight="normal">
+                <g id="a1" transform="translate(450.000000, 0.000000)" fill="#3ABC96" letter-spacing="-0.1481483">
+                    <text>
+                        <tspan x="10" y="17">100</tspan>
+                    </text>
+                </g>
+                <text id="q3" letter-spacing="-0.2962965" fill="#000000">
+                    <tspan x="0" y="17">How many customers do you expect to acquire first month?</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(20.000000, 194.000000)" font-family="Helvetica" font-size="16" font-weight="normal">
+                <g id="a1" transform="translate(450.000000, 0.000000)" fill="#3ABC96" letter-spacing="-0.1481483">
+                    <text>
+                        <tspan x="10" y="17">Flat fee/seat</tspan>
+                    </text>
+                </g>
+                <text id="q3" letter-spacing="-0.2962965" fill="#000000">
+                    <tspan x="0" y="17">How do you want to specify monthly subscription price?</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(20.000000, 230.000000)" font-family="Helvetica" font-size="16" font-weight="normal">
+                <g id="a1" transform="translate(450.000000, 0.000000)" fill="#3ABC96" letter-spacing="-0.1481483">
+                    <text>
+                        <tspan x="10" y="17">$15</tspan>
+                    </text>
+                </g>
+                <text id="q3" letter-spacing="-0.2962965" fill="#000000">
+                    <tspan x="0" y="17">What is the monthly subscription price?</tspan>
+                </text>
+                <text id="q3" letter-spacing="-0.2962965" fill="#000000">
+                    <tspan x="547" y="17">per seat</tspan>
+                </text>
+            </g>
+            <g id="Group-8" transform="translate(20.000000, 276.000000)">
+                <g id="Group-7" transform="translate(0.000000, 22.000000)">
+                    <g id="Group-5">
+                        <g id="a1-2" transform="translate(0.000000, 17.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Duplicate-control"></g>
+                            <g id="a1" mask="url(#mask-2)" fill="#000000" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <text>
+                                    <tspan x="22.5" y="17">1</tspan>
+                                </text>
+                            </g>
+                            <g id="a1" mask="url(#mask-2)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(50.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="21.5" y="17" fill="#000000">2</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-2)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(100.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="21.5" y="17" fill="#000000">3</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-2)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(150.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="21.1248554" y="17" fill="#000000">4</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-2)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(200.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="21.5" y="17" fill="#000000">5</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-2)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(250.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="21.1248554" y="17" fill="#000000">6</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-2)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(300.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="21.5" y="17" fill="#000000">7</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-2)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(350.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="21.1248554" y="17" fill="#000000">8</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-2)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(400.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="21.5" y="17" fill="#000000">9</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-2)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(450.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="21.1248554" y="17" fill="#000000">1</tspan>
+                                        <tspan x="21.1248554" y="36" fill="#000000">0</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-2)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(500.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="21.7146992" y="17" fill="#000000">1</tspan>
+                                        <tspan x="21.1248554" y="36" fill="#000000">1</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-2)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(550.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="21.1248554" y="17" fill="#000000">1</tspan>
+                                        <tspan x="21.1248554" y="36" fill="#000000">2</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="q3" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="-0.2962965" fill="#000000">
+                            <tspan x="0" y="11">Month number</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-6" transform="translate(0.000000, 43.000000)">
+                        <text id="q3" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="-0.2962965" fill="#000000">
+                            <tspan x="0" y="11">Percent of cohort retention</tspan>
+                        </text>
+                        <g id="a1-3" transform="translate(0.000000, 17.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Duplicate-control"></g>
+                            <g id="a1" mask="url(#mask-4)" fill="#889996" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <text>
+                                    <tspan x="12.3745662" y="17">100</tspan>
+                                    <tspan x="18.4607929" y="36">%</tspan>
+                                </text>
+                            </g>
+                            <g id="a1" mask="url(#mask-4)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(50.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="16.7497108" y="17" fill="#889996">50</tspan>
+                                        <tspan x="18.4607929" y="36" fill="#889996">%</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-4)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(100.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="16.7497108" y="17" fill="#889996">35</tspan>
+                                        <tspan x="18.4607929" y="36" fill="#889996">%</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-4)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(150.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="16.7497108" y="17" fill="#889996">32</tspan>
+                                        <tspan x="18.4607929" y="36" fill="#889996">%</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-4)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(200.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="16.7497108" y="17" fill="#889996">29</tspan>
+                                        <tspan x="18.4607929" y="36" fill="#889996">%</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-4)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(250.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="16.7497108" y="17" fill="#889996">28</tspan>
+                                        <tspan x="18.4607929" y="36" fill="#889996">%</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-4)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(300.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="16.7497108" y="17" fill="#889996">27</tspan>
+                                        <tspan x="18.4607929" y="36" fill="#889996">%</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-4)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(350.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="16.7497108" y="17" fill="#889996">27</tspan>
+                                        <tspan x="18.4607929" y="36" fill="#889996">%</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-4)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(400.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="16.7497108" y="17" fill="#889996">27</tspan>
+                                        <tspan x="18.4607929" y="36" fill="#889996">%</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-4)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(450.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="16.7497108" y="17" fill="#889996">27</tspan>
+                                        <tspan x="18.4607929" y="36" fill="#889996">%</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-4)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(500.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="16.7497108" y="17" fill="#889996">27</tspan>
+                                        <tspan x="18.4607929" y="36" fill="#889996">%</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="a1" mask="url(#mask-4)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                                <g transform="translate(550.000000, 0.000000)">
+                                    <text>
+                                        <tspan x="16.7497108" y="17" fill="#889996">27</tspan>
+                                        <tspan x="18.4607929" y="36" fill="#889996">%</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="q3" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.2962965" fill="#000000">
+                    <tspan x="0" y="15">What is the the cohort retention rate?</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(20.000000, 426.000000)">
+                <g id="a1-2" transform="translate(0.000000, 17.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Duplicate-control"></g>
+                    <g id="a1" mask="url(#mask-6)" fill="#000000" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <text>
+                            <tspan x="22.5" y="17">1</tspan>
+                        </text>
+                    </g>
+                    <g id="a1" mask="url(#mask-6)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(50.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.5" y="17" fill="#000000">2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-6)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(100.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.5" y="17" fill="#000000">3</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-6)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(150.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.1248554" y="17" fill="#000000">4</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-6)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(200.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.5" y="17" fill="#000000">5</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-6)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(250.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.1248554" y="17" fill="#000000">6</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-6)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(300.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.5" y="17" fill="#000000">7</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-6)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(350.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.1248554" y="17" fill="#000000">8</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-6)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(400.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.5" y="17" fill="#000000">9</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-6)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(450.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.1248554" y="17" fill="#000000">1</tspan>
+                                <tspan x="21.1248554" y="36" fill="#000000">0</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-6)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(500.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.7146992" y="17" fill="#000000">1</tspan>
+                                <tspan x="21.1248554" y="36" fill="#000000">1</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-6)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(550.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.1248554" y="17" fill="#000000">1</tspan>
+                                <tspan x="21.1248554" y="36" fill="#000000">2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <text id="q3" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="-0.2962965" fill="#000000">
+                    <tspan x="0" y="11">Month number</tspan>
+                </text>
+            </g>
+            <text id="q3" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.2962965" fill="#000000">
+                <tspan x="20" y="419">Total number of consumers</tspan>
+            </text>
+            <g id="Group-5" transform="translate(20.000000, 554.000000)">
+                <g id="a1-2" transform="translate(0.000000, 17.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Duplicate-control"></g>
+                    <g id="a1" mask="url(#mask-8)" fill="#000000" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <text>
+                            <tspan x="22.5" y="17">1</tspan>
+                        </text>
+                    </g>
+                    <g id="a1" mask="url(#mask-8)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(50.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.5" y="17" fill="#000000">2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-8)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(100.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.5" y="17" fill="#000000">3</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-8)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(150.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.1248554" y="17" fill="#000000">4</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-8)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(200.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.5" y="17" fill="#000000">5</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-8)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(250.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.1248554" y="17" fill="#000000">6</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-8)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(300.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.5" y="17" fill="#000000">7</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-8)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(350.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.1248554" y="17" fill="#000000">8</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-8)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(400.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.5" y="17" fill="#000000">9</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-8)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(450.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.1248554" y="17" fill="#000000">1</tspan>
+                                <tspan x="21.1248554" y="36" fill="#000000">0</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-8)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(500.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.7146992" y="17" fill="#000000">1</tspan>
+                                <tspan x="21.1248554" y="36" fill="#000000">1</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="a1" mask="url(#mask-8)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                        <g transform="translate(550.000000, 0.000000)">
+                            <text>
+                                <tspan x="21.1248554" y="17" fill="#000000">1</tspan>
+                                <tspan x="21.1248554" y="36" fill="#000000">2</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <text id="q3" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="-0.2962965" fill="#000000">
+                    <tspan x="0" y="11">Month number</tspan>
+                </text>
+            </g>
+            <text id="q3" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.2962965" fill="#000000">
+                <tspan x="20" y="547">Total revenue</tspan>
+            </text>
+            <g id="Group-6" transform="translate(20.000000, 469.000000)">
+                <text id="q3" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="-0.2962965" fill="#000000">
+                    <tspan x="0" y="11">Total number of consumers</tspan>
+                </text>
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <g id="Duplicate-control"></g>
+                <g id="a1" mask="url(#mask-10)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                    <g transform="translate(0.000000, 17.000000)">
+                        <text>
+                            <tspan x="16.7497108" y="17" fill="#889996">10</tspan>
+                            <tspan x="21.1248554" y="36" fill="#889996">0</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="a1" mask="url(#mask-10)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                    <g transform="translate(50.000000, 17.000000)">
+                        <text>
+                            <tspan x="16.7497108" y="17" fill="#889996">15</tspan>
+                            <tspan x="21.1248554" y="36" fill="#889996">0</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="a1" mask="url(#mask-10)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                    <g transform="translate(100.000000, 17.000000)">
+                        <text>
+                            <tspan x="16.7497108" y="17" fill="#889996">18</tspan>
+                            <tspan x="21.1248554" y="36" fill="#889996">5</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="a1" mask="url(#mask-10)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                    <g transform="translate(150.000000, 17.000000)">
+                        <text>
+                            <tspan x="16.7497108" y="17" fill="#889996">21</tspan>
+                            <tspan x="21.1248554" y="36" fill="#889996">7</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="a1" mask="url(#mask-10)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                    <g transform="translate(200.000000, 17.000000)">
+                        <text>
+                            <tspan x="16.7497108" y="17" fill="#889996">24</tspan>
+                            <tspan x="21.1248554" y="36" fill="#889996">7</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="a1" mask="url(#mask-10)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                    <g transform="translate(250.000000, 17.000000)">
+                        <text>
+                            <tspan x="16.7497108" y="17" fill="#889996">27</tspan>
+                            <tspan x="21.1248554" y="36" fill="#889996">6</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="a1" mask="url(#mask-10)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                    <g transform="translate(300.000000, 17.000000)">
+                        <text>
+                            <tspan x="16.7497108" y="17" fill="#889996">30</tspan>
+                            <tspan x="21.1248554" y="36" fill="#889996">4</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="a1" mask="url(#mask-10)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                    <g transform="translate(350.000000, 17.000000)">
+                        <text>
+                            <tspan x="16.7497108" y="17" fill="#889996">33</tspan>
+                            <tspan x="21.1248554" y="36" fill="#889996">1</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="a1" mask="url(#mask-10)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                    <g transform="translate(400.000000, 17.000000)">
+                        <text>
+                            <tspan x="16.7497108" y="17" fill="#889996">35</tspan>
+                            <tspan x="21.1248554" y="36" fill="#889996">8</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="a1" mask="url(#mask-10)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                    <g transform="translate(450.000000, 17.000000)">
+                        <text>
+                            <tspan x="16.7497108" y="17" fill="#889996">38</tspan>
+                            <tspan x="21.1248554" y="36" fill="#889996">5</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="a1" mask="url(#mask-10)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                    <g transform="translate(500.000000, 17.000000)">
+                        <text>
+                            <tspan x="16.7497108" y="17" fill="#889996">41</tspan>
+                            <tspan x="21.1248554" y="36" fill="#889996">2</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="a1" mask="url(#mask-10)" font-family="Helvetica" font-size="16" font-weight="normal" letter-spacing="-0.1481483">
+                    <g transform="translate(550.000000, 17.000000)">
+                        <text>
+                            <tspan x="16.7497108" y="17" fill="#889996">43</tspan>
+                            <tspan x="21.1248554" y="36" fill="#889996">9</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-19" transform="translate(20.000000, 597.000000)" font-family="Helvetica" font-weight="normal">
+                <text id="q3" font-size="12" letter-spacing="-0.2962965" fill="#000000">
+                    <tspan x="0" y="11">Revenue</tspan>
+                </text>
+                <text id="a1" font-size="16" letter-spacing="-0.1481483" fill="#889996">
+                    <tspan x="5.8508395" y="34">$1,50</tspan>
+                    <tspan x="21.1248554" y="53">0</tspan>
+                </text>
+                <text id="a1" font-size="16" letter-spacing="-0.1481483" fill="#889996">
+                    <tspan x="55.8508395" y="34">$2,25</tspan>
+                    <tspan x="71.1248554" y="53">0</tspan>
+                </text>
+                <text id="a1" font-size="16" letter-spacing="-0.1481483" fill="#889996">
+                    <tspan x="105.85084" y="34">$2,77</tspan>
+                    <tspan x="121.124855" y="53">5</tspan>
+                </text>
+                <text id="a1" font-size="16" letter-spacing="-0.1481483" fill="#889996">
+                    <tspan x="155.85084" y="34">$3,25</tspan>
+                    <tspan x="171.124855" y="53">5</tspan>
+                </text>
+                <text id="a1" font-size="16" letter-spacing="-0.1481483" fill="#889996">
+                    <tspan x="205.85084" y="34">$3,70</tspan>
+                    <tspan x="221.124855" y="53">5</tspan>
+                </text>
+                <text id="a1" font-size="16" letter-spacing="-0.1481483" fill="#889996">
+                    <tspan x="255.85084" y="34">$4,14</tspan>
+                    <tspan x="271.124855" y="53">0</tspan>
+                </text>
+                <text id="a1" font-size="16" letter-spacing="-0.1481483" fill="#889996">
+                    <tspan x="305.85084" y="34">$4,56</tspan>
+                    <tspan x="321.124855" y="53">0</tspan>
+                </text>
+                <text id="a1" font-size="16" letter-spacing="-0.1481483" fill="#889996">
+                    <tspan x="355.85084" y="34">$4,96</tspan>
+                    <tspan x="371.124855" y="53">5</tspan>
+                </text>
+                <text id="a1" font-size="16" letter-spacing="-0.1481483" fill="#889996">
+                    <tspan x="405.85084" y="34">$5,37</tspan>
+                    <tspan x="421.124855" y="53">0</tspan>
+                </text>
+                <text id="a1" font-size="16" letter-spacing="-0.1481483" fill="#889996">
+                    <tspan x="455.85084" y="34">$5,77</tspan>
+                    <tspan x="471.124855" y="53">5</tspan>
+                </text>
+                <text id="a1" font-size="16" letter-spacing="-0.1481483" fill="#889996">
+                    <tspan x="505.85084" y="34">$6,18</tspan>
+                    <tspan x="521.124855" y="53">0</tspan>
+                </text>
+                <text id="a1" font-size="16" letter-spacing="-0.1481483" fill="#889996">
+                    <tspan x="555.85084" y="34">$6,58</tspan>
+                    <tspan x="571.124855" y="53">5</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

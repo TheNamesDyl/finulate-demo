@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1440px" height="810px" viewBox="0 0 1440 810" version="1.1" preserveAspectRatio="none"
-xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1440px" height="826px" viewBox="0 0 1440 826" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>signin</title>
+    <title>1_signin</title>
     <desc>Created with Sketch.</desc>
-    <g id="signin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="1_signin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="background">
             <rect fill="#F5FBFA" x="0" y="0" width="1440" height="1024"></rect>
             <rect id="top" stroke="#BFE6DB" stroke-width="2" fill="#FFFFFF" x="-1" y="-1" width="1442" height="62"></rect>
@@ -14,7 +13,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 </text>
                 <path d="M-3.55271368e-15,12 L15,12 L-3.55271368e-15,12 Z M0,22.9223301 L15,22.9223301 L0,22.9223301 Z M0,17.461165 L15,17.461165 L0,17.461165 Z" stroke="#889996" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
             </g>
-            <g id="user" transform="translate(1313.000000, 15.000000)">
+            <g id="user" transform="translate(1313.000000, 19.000000)">
                 <text id="User-Name" font-family="HindMadurai-Bold, Hind Madurai" font-size="14" font-weight="bold" letter-spacing="-0.345679" fill="#889996">
                     <tspan x="32" y="16">User Name</tspan>
                 </text>
@@ -23,7 +22,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         </g>
         <g id="Group-2" transform="translate(171.000000, 137.000000)">
             <g id="Group" transform="translate(570.000000, 44.000000)">
-                <rect id="Rectangle" fill="#CEEEE5" x="54" y="319" width="411" height="47"></rect>
+                <rect id="Rectangle" fill="#CEEEE5" x="54" y="319" width="411" height="47" rx="23.5"></rect>
                 <text id="Sign-In" font-family="HindMadurai-Bold, Hind Madurai" font-size="21" font-weight="bold" letter-spacing="-0.6763282" fill="#889996">
                     <tspan x="231" y="349">Sign In</tspan>
                 </text>
