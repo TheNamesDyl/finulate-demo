@@ -156,7 +156,6 @@ img {
   margin-top: 735px;
   z-index: 2;
   visibility: hidden;
-
 }
 
 /*revenue_page2*/
@@ -245,6 +244,15 @@ img {
   margin-top: 170px;
 }
 
+#per_rev_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 233px;
+  margin-top: 170px;
+  visibility: hidden;
+  z-index: 2
+}
+
 #exe_team {
   width: 150px;
   height: 70px;
@@ -252,11 +260,29 @@ img {
   margin-top: 277px;
 }
 
+#exe_team_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 233px;
+  margin-top: 277px;
+  visibility: hidden;
+  z-index: 2
+}
+
 #sales_business {
   width: 150px;
   height: 70px;
   margin-left: 623px;
   margin-top: 277px;
+}
+
+#sales_business_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 623px;
+  margin-top: 277px;
+  visibility: hidden;
+  z-index: 2
 }
 
 
@@ -267,11 +293,29 @@ img {
   margin-top: 277px;
 }
 
+#product_dev_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 1013px;
+  margin-top: 277px;
+  visibility: hidden;
+  z-index: 2
+}
+
 #digi_search {
   width: 150px;
   height: 70px;
   margin-left: 623px;
   margin-top: 384px;
+}
+
+#digi_search_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 623px;
+  margin-top: 384px;
+  visibility: hidden;
+  z-index: 2
 }
 
 #travel_exp {
@@ -281,11 +325,29 @@ img {
   margin-top: 384px;
 }
 
+#travel_exp_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 1208px;
+  margin-top: 384px;
+  visibility: hidden;
+  z-index: 2
+}
+
 #account {
   width: 150px;
   height: 70px;
   margin-left: 233px;
   margin-top: 490px;
+}
+
+#account_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 233px;
+  margin-top: 490px;
+  visibility: hidden;
+  z-index: 2
 }
 
 #legal {
@@ -295,11 +357,29 @@ img {
   margin-top: 490px;
 }
 
+#legal_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 428px;
+  margin-top: 490px;
+  visibility: hidden;
+  z-index: 2
+}
+
 #tech {
   width: 150px;
   height: 70px;
   margin-left: 623px;
   margin-top: 490px;
+}
+
+#tech_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 623px;
+  margin-top: 490px;
+  visibility: hidden;
+  z-index: 2
 }
 
 #insurance {
@@ -309,11 +389,29 @@ img {
   margin-top: 490px;
 }
 
+#insurance_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 1208px;
+  margin-top: 490px;
+  visibility: hidden;
+  z-index: 2
+}
+
 #rent {
   width: 150px;
   height: 70px;
   margin-left: 233px;
   margin-top: 598px;
+}
+
+#rent_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 233px;
+  margin-top: 598px;
+  visibility: hidden;
+  z-index: 2
 }
 
 #travel_en {
@@ -323,6 +421,15 @@ img {
   margin-top: 598px;
 }
 
+#travel_en_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 818px;
+  margin-top: 598px;
+  visibility: hidden;
+  z-index: 2
+}
+
 #miscell {
   width: 150px;
   height: 70px;
@@ -330,9 +437,23 @@ img {
   margin-top: 598px;
 }
 
+#miscell_click {
+  width: 150px;
+  height: 70px;
+  margin-left: 1208px;
+  margin-top: 598px;
+  visibility: hidden;
+  z-index: 2
+}
 
-
-
+#next_exp {
+  width: 100px;
+  height: 40px;
+  margin-left: 1235px;
+  margin-top: 735px;
+  z-index: 2;
+  visibility: hidden;
+}
 
 
 
