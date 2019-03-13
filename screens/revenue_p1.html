@@ -56,6 +56,13 @@
           onclick="next_click(this)"
         />
 
+        <img
+          id="back"
+          class="button"
+          src="../res/back.png"
+          onclick="back_click(this)"
+        />
+
         <!--       5th row -->
         <img
           id="monthly_black"
@@ -108,6 +115,9 @@
     </div>
 
     <script>
+      function back_click(x) {
+        location.reload();
+      }
       function hoverBox(x) {
         document.getElementById("hover_cus").style.visibility = "visible";
         x.src = "../res/subscription_green.png";
@@ -153,6 +163,7 @@
         document.getElementById("month").style.visibility = "hidden";
         document.getElementById("next").style.visibility = "hidden";
         document.getElementById("monthly_black").style.visibility = "visible";
+        document.getElementById("back").style.visibility = "visible";
       }
 
       function monthClick(x) {

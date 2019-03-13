@@ -223,6 +223,15 @@ select {
   visibility: hidden;
 }
 
+#back {
+  width: 6.94%;
+  height: 40px;
+  margin-left: 17.71%;
+  margin-top: 735px;
+  z-index: 2;
+  visibility: hidden;
+}
+
 #next {
   width: 6.94%;
   height: 40px;
