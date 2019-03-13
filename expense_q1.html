@@ -1,0 +1,197 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="login.css" />
+    <script src="login.js"></script>
+  </head>
+  <body>
+    <div id="fullscreen">
+      <img
+        class="screensSmall"
+        id="homescreen"
+        alt="second page"
+        src="res/expense_q1.png"
+      />
+    </div>
+    <div>
+      <img
+        id="per_rev"
+        alt="per_rev"
+        src="res/per_rev_black.png"
+        onclick="clickBoxFirst(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img id="per_rev_click" alt="per_rev" src="res/per_rev.png" />
+
+      <img
+        id="exe_team"
+        alt="exe_team"
+        src="res/exe_team_black.png"
+        onclick="clickBox(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img id="exe_team_click" alt="exe_team" src="res/exe_team.png" />
+
+      <img
+        id="sales_business"
+        alt="sales_business"
+        src="res/sales_business_black.png"
+        onclick="clickBox(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img
+        id="sales_business_click"
+        alt="sales_business"
+        src="res/sales_business.png"
+      />
+
+      <img
+        id="product_dev"
+        alt="product_dev"
+        src="res/product_dev_black.png"
+        onclick="clickBox(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img id="product_dev_click" alt="product_dev" src="res/product_dev.png" />
+
+      <img
+        id="digi_search"
+        alt="digi_search"
+        src="res/digi_search_black.png"
+        onclick="clickBox(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img id="digi_search_click" alt="digi_search" src="res/digi_search.png" />
+
+      <img
+        id="travel_exp"
+        alt="travel_exp"
+        src="res/travel_exp_black.png"
+        onclick="clickBox(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img id="travel_exp_click" alt="travel_exp" src="res/travel_exp.png" />
+
+      <img
+        id="account"
+        alt="account"
+        src="res/account_black.png"
+        onclick="clickBox(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img id="account_click" alt="account" src="res/account.png" />
+
+      <img
+        id="legal"
+        alt="legal"
+        src="res/legal_black.png"
+        onclick="clickBox(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img id="legal_click" alt="legal" src="res/legal.png" />
+
+      <img
+        id="tech"
+        alt="tech"
+        src="res/tech_black.png"
+        nclick="clickBox(this)"
+        onclick="clickBox(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img id="tech_click" alt="tech" src="res/tech.png" />
+
+      <img
+        id="insurance"
+        alt="insurance"
+        src="res/insurance_black.png"
+        onclick="clickBox(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img id="insurance_click" alt="insurance" src="res/insurance.png" />
+
+      <img
+        id="rent"
+        alt="rent"
+        src="res/rent_black.png"
+        onclick="clickBox(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img id="rent_click" alt="rent" src="res/rent.png" />
+
+      <img
+        id="travel_en"
+        alt="travel_en"
+        src="res/travel_en_black.png"
+        onclick="clickBox(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img id="travel_en_click" alt="travel_en" src="res/travel_en.png" />
+
+      <img
+        id="miscell"
+        alt="miscell"
+        src="res/miscell_black.png"
+        onclick="clickBox(this)"
+        onmouseout="removeHover(this)"
+        onmouseover="hoverBox(this)"
+      />
+
+      <img id="miscell_click" alt="miscell" src="res/miscell.png" />
+
+      <img
+        id="next_exp"
+        alt="next"
+        src="res/next.png"
+        onclick="next_click(this)"
+      />
+    </div>
+    <script>
+      function clickBox(x) {
+        var str = x.id;
+        str = str + "_click";
+        document.getElementById(str).style.visibility = "visible";
+      }
+
+      function clickBoxFirst(x) {
+        var str = x.id;
+        str = str + "_click";
+        document.getElementById(str).style.visibility = "visible";
+        document.getElementById("next_exp").style.visibility = "visible";
+      }
+
+      function removeHover(x) {
+        var str = x.id;
+        str = "res/" + str + "_black.png";
+        x.src = str;
+      }
+
+      function hoverBox(x) {
+        var str = "res/hover/" + x.id + ".png";
+        x.src = str;
+      }
+    </script>
+  </body>
+</html>

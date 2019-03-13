@@ -141,6 +141,9 @@
       }
 
       function next_click(X) {
+        if (document.getElementById("subscrip").style.visibility === "hidden") {
+          window.location.href = "../expense_q1.html";
+        }
         document.getElementById("homescreen").src = "../res/4_revenue_q2.png";
         document.getElementById("subscrip").style.visibility = "hidden";
         document.getElementById("Group_add").style.visibility = "hidden";
