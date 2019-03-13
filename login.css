@@ -31,7 +31,7 @@ img {
 input,
 select {
   position: fixed;
-  font-family: "Hind Madurai", Arial, Helvetica, sans-serif;
+  font-family: "Hind Madurai", Arial, Helvetica, sans-serif, "HindMadurai";
   font-size: 16px;
   background-color: white;
 }
@@ -61,7 +61,7 @@ select {
   border-radius: 25px;
   height: 47px;
   background-color: #ceeee5;
-  font-family: HindMadurai;
+
   font-size: 21px;
   font-weight: bold;
   font-style: normal;
